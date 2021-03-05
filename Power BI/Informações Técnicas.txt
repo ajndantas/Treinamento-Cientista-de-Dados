@@ -1,0 +1,43 @@
+Informações Técnicas
+-----------------------------------------------------
+Acesso à máquina do Instrutor
+
+\\SL10PC000 ou \\172.16.10.168
+
+(*) Se for solicitada credencial
+
+usuário: .\Instrutor
+senha: trainning
+
+-----------------------------------------------------
+
+SQL Server
+
+Servidor: SL10PC000 ou 172.16.10.168
+user: sa
+senha: trainning
+
+-----------------------------------------------------
+SQL Azure
+
+Credenciais: Banco de Dados
+
+Sevidor Azure: dbservertrainning.database.windows.net
+Usuario Azure: trainning
+Senha Azure: Pa55w.rd
+
+
+Lab Files e apostila dos Alunos 
+
+C:\powerbi\Labfiles
+
+
+
+
+
+
+
+
+
+
+

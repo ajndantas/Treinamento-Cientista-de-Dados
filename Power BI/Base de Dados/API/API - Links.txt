@@ -1,0 +1,27 @@
+Brasil COVID-19
+
+https://covid19-brazil-api.now.sh/ (Site)
+
+https://covid19-brazil-api.now.sh/api/report/v1 (API)
+
+Exemplo de WEB Service
+
+http://pbiwebapi10.azurewebsites.net/api/pedidos
+
+API - Application Programming Interface
+
+Trata-se de uma forma de disponibilizar dados que hoje em dia é bastante difundido
+via WEB. Nome dado de Web Service tem o objetivo de facilitar o acesso ao consumo
+de dados.
+
+Formatos de Saída
+
+	. HTML (Tabelas)
+	. Listas (XML - Extended Markup Language)
+	. Listas (Json - JavaScript Object Notation)
+	
+Tipos de API
+
+	. Públicas
+	. Privadas (Necessitam autenticação de credenciais)	
+

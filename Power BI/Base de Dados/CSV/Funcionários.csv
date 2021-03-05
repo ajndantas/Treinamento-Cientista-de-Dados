@@ -1,0 +1,101 @@
+Matrícula;Colaborador;Gênero;Cargo;Departamento;Diretoria;Salário;Admissão;Telefone Residencial;Telefone Celular
+1000;Eduardo Ribeiro;Masculino;Metrologista ;Manutenção;Industrial;1.930,00;12/09/2016;(011) 5713-0643;(11) 94984-0710
+1001;Gabrielly Freitas Moreira;Feminino;Assistente de Contabilidade;Contabilidade;Financeiro;1.759,00;21/12/2014;(011) 5781-0502;(11) 97208-2164
+1002;Lavínia Teixeira de Araújo;Feminino;Analista de Garantia da Qualidade;Garantia da Qualidade;Industrial;3.404,00;09/01/2018;(011) 5573-0432;(11) 91887-4066
+1003;Melissa Simões;Feminino;Analista de Dep. Pessoal / Folha de Pgto.;Recursos Humanos;Administrativo;2.059,00;21/02/2016;(011) 2360-6186;(11) 95518-2349
+1004;Maria Luiza Rodrigues;Feminino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;817;07/06/2015;(011) 3576-4112;(11) 92807-6494
+1005;Tiago de Jesus Simões;Masculino;Assistente Financeiro;Financeira;Financeiro;2.661,00;21/06/2015;(011) 4647-9811;(11) 97591-1996
+1006;Breno Gonçalves;Masculino;Analista de Crédito e Cobrança;Crédito e Cobrança;Financeiro;4.397,00;01/12/2012;(011) 2886-0109;(11) 91869-9839
+1007;Isis de Carvalho Barbosa;Feminino;Médico do Trabalho (4 H);Recursos Humanos;Administrativo;7.601,00;06/05/2010;(011) 4574-6301;(11) 91604-6274
+1008;Maria Luiza Rodrigues de Sousa;Feminino;Auxiliar de Tesouraria;Tesouraria;Financeiro;1.978,00;04/10/2010;(011) 3670-2992;(11) 98930-9963
+1009;Diego Almeida;Masculino;Coordenador de Garantia da Qualidade;Garantia da Qualidade;Industrial;8.852,00;21/12/2012;(011) 5760-7726;(11) 93084-9642
+1010;Isabelly dos Santos Fonseca;Feminino;Supervisor de Expedição;Almoxarifado e Expedição;Suprimentos;5.467,00;01/06/2014;(011) 5493-9030;(11) 92090-9865
+1011;Paulo da Silva Tavares;Masculino;Coordenador de Compras;Compras;Suprimentos;5.849,00;30/06/2019;(011) 4659-8520;(11) 94929-2453
+1012;Yuri Freitas Figueiredo;Masculino;Coordenador de Serviços Administrativos;Administrativa e Apoio;Administrativo;8.500,00;15/09/2018;(011) 4460-5561;(11) 91226-3152
+1013;Henrique Moreira Fernandes;Masculino;Motorista de Veículo Leve;Administrativa e Apoio;Administrativo;1.172,00;21/10/2018;(011) 2674-0054;(11) 96415-2321
+1014;Anthony Moreira Ribeiro;Masculino;Auxiliar de Vendas;Vendas;Vendas;1.786,00;02/04/2013;(011) 5468-5535;(11) 99852-2570
+1015;Ana Julia Ferreira;Feminino;Secretária Bilíngue;Administrativa e Apoio;Administrativo;5.547,00;30/04/2014;(011) 3661-2485;(11) 98965-2347
+1016;Ramom Marques;Masculino;Analista de Marketing;Marketing;Marketing;2.289,00;07/02/2014;(011) 3882-6242;(11) 93496-6448
+1017;Juliana Teixeira Almeida;Feminino;Auxiliar de Manutenção;Manutenção;Industrial;1.615,00;06/02/2014;(011) 4844-7563;(11) 93450-6548
+1018;Henry Sousa Pires;Masculino;Programador de Produção;Produção;Industrial;1.551,00;13/06/2016;(011) 4286-7374;(11) 93485-6470
+1019;Luiza Almeida;Feminino;Auxiliar de Produção;Produção;Industrial;1.186,00;15/10/2016;(011) 2973-3174;(11) 90551-6934
+1020;Clarice Ribeiro de Sousa;Feminino;Analista de Help Desk;Teleatendimento (Telemarketing);Vendas;2.241,00;08/10/2009;(011) 5408-8688;(11) 97856-6553
+1021;Maria Valentina Martins;Feminino;Motorista de Diretoria;Administrativa e Apoio;Administrativo;2.476,00;25/07/2019;(011) 5226-8579;(11) 90049-0387
+1022;Ana Sophia Mendes Matos;Feminino;Coordenador de Controle de Qualidade;Controle de Qualidade;Industrial;6.493,00;02/09/2015;(011) 3472-4200;(11) 93812-5822
+1023;Luna Freitas Alves;Feminino;Coordenador de Vendas;Vendas;Vendas;8.966,00;17/11/2010;(011) 3318-7923;(11) 91471-9059
+1024;Benjamin Carvalho;Masculino;Inspetor de Controle de Qualidade;Controle de Qualidade;Industrial;1.814,00;29/06/2012;(011) 3734-2607;(11) 94267-3095
+1025;Victor de Castro;Masculino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;1.096,00;16/03/2015;(011) 3247-9042;(11) 94187-9963
+1026;Maria Vitória Freitas;Feminino;Assistente de Administração de Vendas;Vendas;Vendas;1.492,00;29/12/2011;(011) 4368-1914;(11) 97371-0245
+1027;Louise de Almeida de Jesus;Feminino;Assistente Administrativo;Administrativa e Apoio;Administrativo;2.096,00;21/03/2018;(011) 2874-7835;(11) 95766-1027
+1028;Maya Oliveira;Feminino;Faturista;Almoxarifado e Expedição;Suprimentos;1.783,00;19/05/2014;(011) 2944-5900;(11) 99369-8612
+1029;Ana Paula Araújo;Feminino;Auxiliar de Escritório;Administrativa e Apoio;Administrativo;742;03/07/2013;(011) 3969-3399;(11) 92077-2973
+1030;Enrico Neves;Masculino;Analista de Dep. Pessoal / Folha de Pgto.;Recursos Humanos;Administrativo;3.266,00;02/05/2011;(011) 4649-3895;(11) 94953-3137
+1031;Henrique dos Santos;Masculino;Analista de Segurança de Sistemas;Tecnologia da Informação;Informática;4.110,00;14/10/2016;(011) 4741-1915;(11) 91730-9424
+1032;Juliana de Jesus Rodrigues;Feminino;Analista de Vendas;Vendas;Vendas;4.369,00;24/12/2012;(011) 4038-4846;(11) 91231-0005
+1033;Ângelo Ferreira;Masculino;Analista de Logística;Logística;Suprimentos;3.592,00;10/10/2013;(011) 2640-5449;(11) 96696-7076
+1034;Lara Vieira;Feminino;Auxiliar de Tesouraria;Tesouraria;Financeiro;1.978,00;11/06/2014;(011) 4403-8318;(11) 90244-5460
+1035;Maria Fernanda Ramos Costa;Feminino;Coordenador de Vendas;Vendas;Vendas;6.098,00;26/12/2015;(011) 4239-3873;(11) 91168-0409
+1036;Otávio Fernandes;Masculino;Coordenador Financeiro;Financeira;Financeiro;12.089,00;19/07/2014;(011) 2838-7201;(11) 91698-2115
+1037;Luan Carvalho Rocha;Masculino;Analista de Tesouraria;Tesouraria;Financeiro;3.686,00;10/09/2015;(011) 4936-2318;(11) 93969-6353
+1038;Ana Luiza Jesus Freitas;Feminino;Analista de Compras;Compras;Suprimentos;2.507,00;22/07/2012;(011) 2135-6134;(11) 94228-9450
+1039;Pablo Coelho;Masculino;Assistente Administrativo;Administrativa e Apoio;Administrativo;2.096,00;17/03/2012;(011) 4013-9944;(11) 95612-5052
+1040;Jorge de Jesus da Costa;Masculino;Coordenador de Contabilidade;Contabilidade;Financeiro;8.745,00;22/10/2009;(011) 4066-1562;(11) 99209-2374
+1041;Isadora Monteiro;Feminino;Analista de PCP;PCP;Industrial;3.430,00;16/11/2010;(011) 2753-8631;(11) 90922-4416
+1042;Isadora Almeida Cardoso;Feminino;Auxiliar de Comércio Exterior;Comércio Exterior;Suprimentos;1.654,00;19/07/2019;(011) 4329-9964;(11) 99786-1547
+1043;Martha Castro;Feminino;Auxiliar de Compras;Compras;Suprimentos;1.614,00;05/07/2015;(011) 2952-1262;(11) 95475-5085
+1044;Gustavo Neves;Masculino;Auxiliar de Controle de Qualidade;Controle de Qualidade;Industrial;1.585,00;11/10/2016;(011) 3477-0376;(11) 98681-5324
+1045;Rafael Fonseca;Masculino;Assistente de Crédito e Cobrança;Crédito e Cobrança;Financeiro;2.600,00;16/10/2009;(011) 5407-1469;(11) 96798-2341
+1046;Calebe Jesus Lopes;Masculino;Auxiliar de Compras;Compras;Suprimentos;2.095,00;06/11/2012;(011) 5131-3125;(11) 98414-4888
+1047;Felipe Monteiro de Almeida;Masculino;Coordenador de Vendas;Vendas;Vendas;6.814,00;07/04/2014;(011) 4457-2920;(11) 98935-4520
+1048;Jonathan Rocha;Masculino;Analista de Recursos Humanos;Recursos Humanos;Administrativo;3.544,00;28/02/2014;(011) 2413-3933;(11) 92168-9792
+1049;Danilo Cunha;Masculino;Analista de Sistemas;Tecnologia da Informação;Informática;5.764,00;08/07/2010;(011) 2750-6470;(11) 93472-9706
+1050;Lívia Monteiro;Feminino;Analista de Crédito e Cobrança;Crédito e Cobrança;Financeiro;3.122,00;23/06/2016;(011) 2087-0735;(11) 92863-8475
+1051;Tomás Fernandes;Masculino;Supervisor de Almoxarifado;Almoxarifado e Expedição;Suprimentos;3.997,00;07/04/2018;(011) 3353-6483;(11) 93743-6694
+1052;Yago Ribeiro;Masculino;Auxiliar de Comércio Exterior;Comércio Exterior;Suprimentos;1.529,00;05/11/2018;(011) 2900-7787;(11) 93865-7875
+1053;Luana Freitas;Feminino;Assistente de Crédito e Cobrança;Crédito e Cobrança;Financeiro;2.175,00;22/09/2011;(011) 4115-9284;(11) 94041-8793
+1054;Michael Antunes;Masculino;Analista de Comércio Exterior;Comércio Exterior;Suprimentos;5.939,00;18/08/2009;(011) 5820-5684;(11) 98306-2642
+1055;Laura Pires Monteiro;Feminino;Coordenador de Contabilidade;Contabilidade;Financeiro;7.124,00;22/08/2010;(011) 3257-5216;(11) 99625-0472
+1056;Valentina de Matos Rodrigues;Feminino;Assistente Fiscal;Fiscal;Administrativo;2.130,00;18/04/2016;(011) 3239-7146;(11) 95826-2728
+1057;Clara Araújo;Feminino;Porteiro;Administrativa e Apoio;Administrativo;986;08/12/2013;(011) 2249-6507;(11) 91363-8011
+1058;Mariana dos Santos;Feminino;Assistente de Marketing;Marketing;Marketing;3.860,00;02/09/2016;(011) 3140-3913;(11) 91602-7884
+1059;Murilo Oliveira;Masculino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;817;28/04/2014;(011) 4063-0940;(11) 92429-3827
+1060;Alana Fernandes;Feminino;Coordenador de Suporte Técnico;Tecnologia da Informação;Informática;9.475,00;16/08/2018;(011) 2222-9352;(11) 95574-0274
+1061;Renan Ramos Moreira;Masculino;Auxiliar de Crédito e Cobrança;Crédito e Cobrança;Financeiro;1.522,00;27/12/2012;(011) 3621-1937;(11) 96630-3407
+1062;Olívia Lopes Almeida;Feminino;Analista de Custo e Orçamento;Custo e Orçamento;Financeiro;3.334,00;30/06/2019;(011) 5130-5272;(11) 95760-6163
+1063;Ayla Correia;Feminino;Analista de Custo e Orçamento;Custo e Orçamento;Financeiro;3.606,00;29/04/2011;(011) 4506-4940;(11) 97501-1181
+1064;Frederico Araújo Matos;Masculino;Analista Fiscal;Fiscal;Administrativo;3.426,00;01/07/2017;(011) 2132-7288;(11) 93969-8922
+1065;Valentina de Carvalho;Feminino;Coordenador de Custo e Orçamento;Custo e Orçamento;Financeiro;8.229,00;09/08/2010;(011) 2596-1762;(11) 95731-3357
+1066;Maya Santos;Feminino;Assistente de Vendas;Vendas;Vendas;2.202,00;10/04/2014;(011) 2003-7517;(11) 96857-1139
+1067;Camila da Costa;Feminino;Supervisor de Vendas;Vendas;Vendas;3.922,00;30/01/2019;(011) 5637-6542;(11) 93706-2960
+1068;Laura Figueiredo;Feminino;Auxiliar de Tesouraria;Tesouraria;Financeiro;1.666,00;24/05/2014;(011) 5926-2780;(11) 99874-2031
+1069;Mônica Freitas Silva;Feminino;Vendedor;Vendas;Vendas;2.568,00;05/10/2011;(011) 4120-1987;(11) 97883-7839
+1070;Sophia Neves;Feminino;Coordenador de Contabilidade;Contabilidade;Financeiro;7.124,00;02/02/2011;(011) 5019-1128;(11) 97319-4104
+1071;Nicole de Jesus;Feminino;Auxiliar de Escritório;Administrativa e Apoio;Administrativo;1.312,00;22/09/2014;(011) 2716-1267;(11) 96257-6082
+1072;Caroline Lopes;Feminino;Analista de Tesouraria;Tesouraria;Financeiro;2.427,00;24/01/2015;(011) 3263-3988;(11) 90988-1882
+1073;Gabriela Santos;Feminino;Motorista de Veículo Leve;Administrativa e Apoio;Administrativo;1.172,00;23/02/2011;(011) 4107-1692;(11) 90631-2272
+1074;Ana Lívia Rodrigues;Feminino;Assistente de Marketing;Marketing;Marketing;2.632,00;22/10/2013;(011) 5455-6086;(11) 96854-5266
+1075;Fernanda Ribeiro;Feminino;Coordenador de Manutenção;Manutenção;Industrial;7.468,00;10/08/2012;(011) 4668-9586;(11) 99352-3791
+1076;Bruno Cardoso Barbosa;Masculino;Coordenador de Manutenção;Manutenção;Industrial;9.157,00;07/08/2019;(011) 2898-2436;(11) 98463-1949
+1077;Yasmin Machado;Feminino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;916;02/02/2016;(011) 3360-4663;(11) 97579-8407
+1078;Vitória Rocha Figueiredo;Feminino;Auxiliar de Marketing;Marketing;Marketing;1.407,00;04/11/2010;(011) 3455-4669;(11) 94814-0658
+1079;João dos Reis;Masculino;Analista de Custo e Orçamento;Custo e Orçamento;Financeiro;3.606,00;10/03/2014;(011) 4929-1625;(11) 97734-8742
+1080;Gustavo Fernandes;Masculino;Assistente de Compras;Compras;Suprimentos;3.462,00;27/09/2014;(011) 5574-9077;(11) 95555-4459
+1081;Pietra da Costa;Feminino;Assistente de Compras;Compras;Suprimentos;2.393,00;25/07/2010;(011) 2232-4182;(11) 90073-4090
+1082;Maitê Monteiro Soares;Feminino;Analista de Comércio Exterior;Comércio Exterior;Suprimentos;2.882,00;15/05/2011;(011) 3481-7482;(11) 95525-6172
+1083;Manuel de Carvalho Tavares;Masculino;Coordenador de Contabilidade;Contabilidade;Financeiro;8.745,00;22/01/2015;(011) 4004-8901;(11) 97425-7592
+1084;Alice Correia Almeida;Feminino;Técnico de Segurança do Trabalho;Recursos Humanos;Administrativo;2.468,00;26/08/2018;(011) 3737-3331;(11) 96828-3964
+1085;José Sousa;Masculino;Analista de Recursos Humanos;Recursos Humanos;Administrativo;2.682,00;16/06/2015;(011) 5834-4455;(11) 94485-0301
+1086;Danilo Freitas;Masculino;Assistente Financeiro;Financeira;Financeiro;2.661,00;06/10/2013;(011) 5749-1106;(11) 97858-2102
+1087;Mirella Fernandes;Feminino;Assistente de Administração de Vendas;Vendas;Vendas;2.881,00;13/07/2011;(011) 2870-3235;(11) 97627-5076
+1088;Taís Ferreira;Feminino;Telefonista / Recepcionista (8 H);Administrativa e Apoio;Administrativo;1.201,00;06/02/2012;(011) 5713-2422;(11) 99530-9640
+1089;Luna Moreira;Feminino;Analista Financeiro;Financeira;Financeiro;2.103,00;09/11/2016;(011) 5178-4048;(11) 97860-2523
+1090;Ana Reis;Feminino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;916;11/04/2017;(011) 5415-1768;(11) 91410-9310
+1091;Samuel Machado;Masculino;Coordenador de Comércio Exterior;Comércio Exterior;Suprimentos;5.021,00;15/02/2012;(011) 3926-7233;(11) 98951-7322
+1092;Júlio Santos Santos;Masculino;Analista de Suporte Técnico;Tecnologia da Informação;Informática;4.349,00;15/04/2011;(011) 5912-2846;(11) 92637-9723
+1093;Jonathan dos Reis de Matos;Masculino;Auxiliar de Compras;Compras;Suprimentos;1.454,00;29/10/2014;(011) 5000-8290;(11) 90608-4320
+1094;Michael de Carvalho Coelho;Masculino;Operador de Teleatendimento (6 H);Teleatendimento (Telemarketing);Vendas;1.096,00;07/10/2015;(011) 3903-3129;(11) 94507-5415
+1095;Maria Luiza Gomes;Feminino;Inspetor de Controle de Qualidade;Controle de Qualidade;Industrial;2.043,00;06/02/2014;(011) 4266-0243;(11) 96943-9566
+1096;Ana Júlia Neves;Feminino;Auxiliar de Produção;Produção;Industrial;949;19/06/2015;(011) 4766-8139;(11) 99808-6240
+1097;Malu de Sousa;Feminino;Coordenador de Suporte Técnico;Tecnologia da Informação;Informática;5.000,00;13/09/2011;(011) 4510-8154;(11) 94975-2241
+1098;Heitor Cruz;Masculino;Coordenador de Custo e Orçamento;Custo e Orçamento;Financeiro;7.353,00;21/02/2013;(011) 2649-0539;(11) 96060-0357
+1099;Miguel Simões Alves;Masculino;Porteiro;Administrativa e Apoio;Administrativo;986;16/02/2011;(011) 4169-1008;(11) 97211-5477

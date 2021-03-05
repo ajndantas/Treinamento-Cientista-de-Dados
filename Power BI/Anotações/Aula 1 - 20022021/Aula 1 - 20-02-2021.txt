@@ -1,0 +1,284 @@
+Aula 1 - 20/02/2021
+--------------------------------------------
+O que é BI?
+
+Business Intelligence <> Dashboard
+
+Dado não é a mesma coisa que informação
+
+EX:
+	Nome: Hélio
+	Idade: 49
+	Cidade: São Paulo
+
+Informação é um conjunto de dados brutos
+
+Inteligência de Negócios auxilia na tomada de decisões.
+
+BI trabalha com dados históricos. (Fato)
+
+Dados descritivos: ocorreram no passado.
+
+Como?
+
+Por que?
+
+Quando?
+
+
+Ferramentas de Self Service BI
+------------------------------
+
+IBM Watson
+Google Analytics
+Tableau
+Qlik View
+Power BI
+...
+
+Produto Power BI
+----------------
+www.powerbi.com
+
+Evolução
+
+	Excel 2010 - Power Pivot
+	Excel 2013 - Intrínseco
+		Power Pivot
+		Power Query
+		Power View
+		Power Map
+	Extendeu até Excel 2019 (exceto power view)
+
+Power BI Online (Julho 2015)
+
+Power BI Desktop (Dezembro 2015)
+
+Versão gratuíta
+
+Principal limitação: Segurança e compartilhamento
+inexistentes.
+
+. Power BI Online (PRO)
+
+$ 9.99 (Mês / Usuário)
+
+Serviços Online, Compartilhamentos, recursos
+responsivos (Uma apresentação poderá ser exibida
+em tela de computador, celular, tablet ...)
+
+Servidor Compartilhado: Isto poderá gerar
+latência e instabilidade.
+
+(*) Tanto criadores e consumidores deverão ter
+contas do tipo PRO.
+
+. Power BI Premium
+
+Acesso ao Big Data
+
+Recursos de administração de contas mais sofisticados
+
+Mobile (Celular)
+
+Servidor de Relatório SQL Server
+
+Servidor de Hospedagem dedicado
+
+$ 4.995,00 (Mês - Até 5000 contas)
+
+. Power Mobile
+
+. Power BI Embedded (Incorporada)
+
+Inserir relatórios dentro de um sistema legado
+na empresa.
+
+. Servidor de Relatórios (SQL Server)
+
+--------------------------------------------------
+Download do Power BI Desktop
+
+Versão: Todo mês o Power BI tem um release novo.
+
+
+Interface do Power BI Desktop
+-----------------------------
+
+Mudar o idioma do Power BI
+
+File - Options and settings - Options
+
+Global - Regional settings - Language: Portuguese(Brazil)
+
+Guias - Grupos - Botões
+
+Modos de Exibição:
+
+Relatório: Local onde iremos criar nossos relatórios
+
+Dados: Visualizar Dados, Ordenar, Filtros, Formatar,
+criar campos calculados e medidas entre outros...
+
+Modelo: Local para visualizar o modelo de dados
+e seus respectivos relacionamentos...
+
+Painéis:
+
+Filtros - Permite gerenciar e criar filtros
+
+Visualizações - Utilizado para criar os elementos
+visuais de uma página.
+
+Campos - Colunas da base de dados importada
+
+---------------------------------------------------
+ETL - Extract Transform Load
+
+Extração
+	. Conectado a um banco de dados
+	. Extrair arquivos de um Sistema ERP.
+
+	EX:
+
+	SAP
+	Cognus e Analytics (IBM)
+	Dynamics (Microsoft)
+	Protheus (TOTVS)
+	...
+
+Transformação
+
+	EX:
+	
+	Tratamento de Grafia
+	Manipulação de colunas e linhas
+	Tratamento de erros
+
+	Excel		Power BI
+	#N/D		error
+
+	Campos Vazia	NULL
+
+	Criação de campos calculados e
+	medidas de coluna
+
+Carga
+
+	Feita após a extração e transformação
+
+EXCEÇÕES
+	ELT - Extrai Carrega Transforme
+
+Conectores de Banco SQL
+
+	. SQL Azure (Cloud)
+
+Servidor: dbservertrainning.database.windows.net
+
+Usuário: trainning
+
+Senha: Pa55w.rd
+
+
+	. SQL Server (On premise) = Local
+
+Servidor: SL10PC000 ou 172.16.10.168
+
+Se for solicitada credencial
+
+Banco de Dados (Database)
+Usuário: sa
+Senha: tranning
+
+Obter os dados
+
+Dificuldades em conectar-se a bancos de dados
+
+. Permissão
+
+. Entendimento do modelo relacional
+
+Existem várias tabelas com vários compos e muitas
+delas se relacionam entre si.
+
+
+Ao clicar em Transformar dados uma nova janela irá
+se abrir e a mesma é denominada de Power Query
+Editor.
+
+Algumas atividades no Power Query
+
+. Verificar os tipos de dados
+. Verificar grafia
+. Cálculos
+
+Quando a Transformação for concluída devemos fechar
+o Power Query e aplicar as alterações
+
+Arquivos salvos no Power Bi recebem a extensão pbix
+
+----------------------------------------------------
+Arquivos
+
+Enterprise Resource Planning
+
+ERP -------> Banco de Dados 
+
+ERP -------> Arquivos
+
+. Texto (TXT)
+. CSV
+. XML
+. Pasta com vários arquivos
+. Json (API)
+. Excel
+
+
+Arquivos de Texto
+-----------------
+
+Qual é o formato deste arquivo?
+
+> Delimitado
+
+	Este arquivo terá algum caractere que irá
+	indicar a separação das colunas/campos
+
+	Principais delimitadores:
+		(;) ponto e vírgula
+		Tabulação
+		Outro Caractere por exemplo
+		o Pipeline (|)
+
+
+> Largura Fixa
+
+Campo1: 10 posições
+Campo2: 40 posições
+...
+
+
+Origem do Arquivo:
+
+. Sistema Operacional
+. Localização (País)
+
+1252: Europeu Ocidental (windows)
+
+UTF-8 ou UTF-7: Países da América
+
+
+Cartão
+
+Unidades de Medidas:
+			en-us
+Mil	Milhares	K
+Mi	Milhões		M
+Bi	Bilhões		BN
+Tri	Trilhões	T
+
+
+
+
+	
