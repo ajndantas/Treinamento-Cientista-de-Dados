@@ -1,0 +1,312 @@
+Aula 3 - 06/03/2021
+-------------------
+
+
+Serviço Online
+
+www.powerbi.com
+
+Clicar em Entrar
+
+Login: alunoxx@pbisabado022021.onmicrosoft.com
+
+senha: Pbi@2021
+
+---------------------------------------------------
+Importando dados do Excel
+
+Passos recomendados para se trabalhar com projetos
+de Power BI.
+
+
+1) Verificar os dados de Origem
+
+Controle de Vendas.xlsx
+
+Base de Dados - Excel
+
+
+Regras:
+
+> Dados devem começar em A1
+
+> Não mesclar células em cabeçalhos
+
+> Não pode conter linhas e/ou colunas
+inteiras vazias dentro do intervalo.
+
+> Ideal trabalhar com tabelas
+
+Nomenclatura de tabelas no BI
+
+Dimensão
+	Quando ocorre uma única instância
+	do dado.
+
+EX:
+	Cliente
+	Funcionário
+	Paciente
+	Produto
+	Fornecedor
+	Aluno
+	...
+
+Fato
+	Quando temos várias ocorrências de registros
+	de várias tabelas dimensão.
+
+	Vendas
+	Consultas
+	Turmas
+	...
+
+dNomeTabela ou dimNomeTabela	(Dimensão)
+
+fNomeTabela ou fatNomeTabela	(Fato)
+
+2) Importar os Dados
+
+	Power Query
+
+	. Tipo de Dados
+	. Grafia de escritas
+
+3) Formatação de dados
+
+4) Avaliar o Modelo Relacional
+
+	Automático no Excel
+
+	. Mesmo Nome de Coluna
+	. Mesmo Tipo de Dado
+
+5) Criar a Tabela Calendário
+
+temos duas maneiras de criar:
+
+CALENDARAUTO()
+
+	Lê a data mais antiga na base até
+	a mais atual e gera datas seriais.
+
+	Ideal quando se tem apenas uma coluna de
+	datas.
+
+CALENDAR(StartDate,EndDate)
+
+EX:
+	"2018/7/10","2021/12/31"
+
+ANSI: Ano/Mês/Dia (Recomendado)
+
+	"2018/7/10",TODAY()
+
+	MIN([DataPedido]),Max([DataPedido])
+
+Guia Modeling - New Table
+
+dCalendario = CALENDAR(
+MIN(fPedidos[Data Pedido]),
+MAX(fPedidos[Data Pedido]))
+
+
+Colunas d dCalendario
+
+Ano = YEAR([Datas])
+
+Mês = MONTH[Datas])
+
+Dia = DAY([Datas])
+
+Dia da semana = WEEKDAY([Datas],1)
+
+(*) Retorno um inteiro entre 1 e 7
+
+Segundo argumento diz quando a semana começa
+
+1 = Domingo
+
+Semana do Ano = WEEKNUM([datas],1)
+
+(*) Retorno um inteiro entre 1 e 53
+
+Segundo argumento diz quando a semana começa
+
+Exibindo como texto o dia da semana
+
+Nome Dia Semana = FORMAT([Datas],"dddd")
+
+Ex: 01/03/2021
+
+d	1
+dd	01
+ddd	seg
+dddd	segunda-Feira
+
+Exibindo como texto o nome do mês
+
+Nome do Mês = FORMAT([Datas],"mmmm")
+
+m	3
+mm	03
+mmm	mar
+mmmm	março
+
+(*)
+
+yy	21
+yyyy	2021
+
+
+Formato = FORMAT([Datas],"dd, dddd - mmmm - yy")
+
+
+03, segunda-feira - março - 21
+
+
+6) Colunas de Cálculo
+
+Frete = SWITCH(
+
+TRUE(),
+
+[Valor Unitário] <= 1000,40,
+
+[Valor Unitário] <= 3000,20,
+
+0)
+
+-----------------------------------------------------
+
+Subtotal = [Quantidade] * RELATED(dProduto[Valor Unitário]) *
+
+(1 - [Desconto]) + RELATED(dProduto[Frete])
+
+
+Diferença entre Nova Coluna e Nova Medida
+
+Nova Coluna
+
+	Quando o cálculo for realizado linha a linha
+	da tabela.
+
+Nova Medida
+
+	Quando o cálculo for de resumo de uma
+	coluna inteira.
+
+Temos 2 tipos de medidas
+
+	Implícita
+
+	O PBI calcula pra você
+
+	Explícita
+	
+	Nós temos que escrever a fórmula
+	do cálculo da medida.
+
+Periodo Anterior = 
+CALCULATE(
+    SUM([Subtotal]),SAMEPERIODLASTYEAR(dCalendario[Datas]))
+
+----------------------------------------------------
+7) Publicação de Relatórios
+
+. Você já criou teu relatório no Desktop
+
+. É necessário estar autenticado no Desktop
+
+A cada alteração no visual ou nos dados
+será necessário republicar.
+
+Substituir Conjunto de Dados
+
+Replace dataset
+
+Publiquem os seguintes relatórios
+
+do 01 ao 05
+
+WorkSpace
+
+Trata-se de uma espaço de trabalho, ou seja,
+um repositório de relatórios.
+
+
+Organização e Segurança
+
+Publicação
+
+	. Impressão
+	. PDF
+	. Power Point
+	. Analisar no Excel (Download de um plugin)
+	. Link Público na WEB (CUIDADO)
+
+	2 links serão gerados
+
+	. URL (Navegador)
+
+	. Iframe (Desenvolvimento WEB)
+
+(*) todos os exemplos acima NÃO SERÁ NECESSÁRIO
+TER CONTA PAGA PRO.
+
+(*) Os dados não tem segurança
+
+
+Compartilhar (Com segurança) - Conta PRO / PREMIUM
+
+	. SharePoint
+	. Site ou Portal
+	
+	2 links
+
+	. URL (Navegador)
+
+	. Iframe (Desenvolvimento WEB)
+
+	. Compartilhar (mais segura de todas)
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7) Design e visualizações
+
+
+
+8) Publicação
+
+
+
+
+
+	
+
+
+
+
+
+
+

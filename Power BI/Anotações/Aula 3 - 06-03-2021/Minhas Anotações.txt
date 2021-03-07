@@ -1,0 +1,18 @@
+Para saber se em uma planilha temos uma tabela, basta clicar em um dos registros, se ativar a guia Design, é tabela.
+
+É uma boa prática trabalhar com as tabelas em vez das planilhas inteiras
+
+CALCULATE criado é como se fosse o SOMASE DO EXCEL
+
+Teve que ser fazer a medida explicita, porque o power bi não tem essa medida no campo Values (Gaveteiro)
+
+No Ícone da Seta para baixo (Que está envolvida pelo círculo preto), fixa o drill-down, e depois, escolhe-se um elemento do eixo X clicando-se no gráfico que está sobre o valor do eixo X (Ex: Outro ano)
+
+Para que o Slicer pareça botão do Excel, precisa ter a Orientação Horizontal
+
+Matrix (Como se fosse a Tabela Dinâmica do Excel)
+
+Na Matrix, não faz sentido arrastar Estado, antes de Cidade, já que não temos Estados dentro de Cidades, só o contrário
+Arrastando Estado e Cidade, podemos fazer um drill-down em Estado.
+
+Para ordenar os dias da semana, não é uma ordem alfabética, mas temos que ordenar os nomes do dia da semana, utilizando como critério, os dias da semana

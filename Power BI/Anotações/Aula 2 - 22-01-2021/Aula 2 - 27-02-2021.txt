@@ -1,0 +1,292 @@
+Aula 2 - 27/02/2021
+----------------------
+
+XML - Extended Markup Language (2003)
+
+. Muito Leve e rápido
+. Altamente Escalonável
+(Vários aplicativos conseguem ler)
+. Formato padronizado (W3C)
+
+(*) Quando formos importar arquivos de formatos
+não português Brasil será necessário ajustar
+o idioma do Power BI.
+
+este procedimento deverá ser realizado antes
+da importação.
+
+Arquivo - Opções e Configurações - Opções
+
+File - Options and Settings - Options
+
+Current File
+Arquivo Atual - Configurações Regionais
+
+Idioma: Inglês(Estados Unidos)
+
+Aplicar Alterações
+
+Verificar Tipos de Dados
+
+Avaliação de Grafia
+
+Remover colunas
+
+Botão direito - Remover
+
+(*) A coluna continua existindo na origem
+
+Criando Campos Calculados no Power Query
+
+
+[Campo]
+
+EX:
+
+Nome: Imposto
+
+Fórmula: [Total] * 0.06
+
+(*)
+
+Power Query não aceita o símbolo de %
+e utilza . (ponto) para decimal
+
+Power Query faz distinção entre maiúsculas e
+minúsculas.
+
+
+Botão Análise
+
+Linha de Média
+
+Dica de Ferramenta
+
+Automática
+
+Personalizada
+
+Porto Alegre
+
+CAMISA
+CAMISA
+CAMISA
+CAMISA
+CAMISA
+GRAVATA
+GRAVATA
+GRAVATA
+GRAVATA
+GRAVATA
+TERNO
+TERNO
+TERNO
+
+Contagem: 13
+
+Contagem Distinta: 3 (exclusiva sem repetições)
+
+------------------------------------------------
+
+CSV - Comma Separator Value
+
+en-us	(,) como delimitador
+
+pt-br	(;) como delimitador
+
+
+Hierarquia de Datas
+--------------------
+
+Todo campo do tipo data/hora o power bi importa
+com hierarquia
+
+Padrão
+
+Ano
+   Trimestre
+     Mês
+	Dia
+	   Hora
+	     Minuto
+		Segundo
+
+
+Recurso Pesquisar
+
+Pode ser utilizado em segmentações de dados
+
+...
+	Pesquisar
+
+
+Relacionamentos e Modelo de Dados
+---------------------------------
+
+Trata-se de quando temos campos em comum entre
+duas ou mais tabelas.
+
+
+regras
+
+Os campos deverão ser do mesmo tipo de dado
+
+
+Cardinalidade (Tipo de Relacionamento)
+
+Um para muitos
+
+Representação
+
+Banco de Dados - 1:N
+
+Power BI - 1:*
+
+--------------------------------------------------
+
+Um para Um
+
+Representação
+
+Banco de Dados - 1:1
+
+Power BI - 1:1
+
+EX:
+
+(Tabela)	Funcionarios	Gerente
+
+(Campo)		Matricula	Matricula
+
+
+Funcionarios		Gerente		Depto
+1000	Hélio		1000		TI
+
+		
+Muitos para Muitos
+
+Representação
+
+Banco de Dados - N:N
+
+Power BI - *:*
+
+clientesPedidos 2019	clientesPedidos 2020
+
+A			A
+A			B
+A			B
+B			B
+B			D
+C			D
+
+
+--------------------------------------------------
+API - Application Programming Interface
+
+Trata-se de uma forma de disponibilizar dados que hoje em dia é bastante difundido
+via WEB. Nome dado de Web Service tem o objetivo de facilitar o acesso ao consumo
+de dados.
+
+Formatos de Saída
+
+	. HTML/CSS (Tabelas)
+	. Listas (XML - Extended Markup Language)
+	. Listas (Json - JavaScript Object Notation)
+	
+Tipos de API
+
+	. Públicas (LGPD)
+	. Privadas (Necessitam autenticação de credenciais)	
+
+
+Verificar se o criador da API criou alguma
+documentação.
+
+Brasil COVID-19
+
+https://covid19-brazil-api.now.sh/ (Site)
+
+https://covid19-brazil-api.now.sh/api/report/v1 (API)
+
+Exemplo de WEB Service
+
+http://pbiwebapi10.azurewebsites.net/api/pedidos
+
+
+Passos:
+
+> Informar o link da API
+
+> Credencial (Privado)
+
+> Power Query
+
+> Neste momente será necessário converter
+a lista em tabela
+
+> Converter a Lista em Registros (linhas)
+
+> Expandir o Record (Colunas)
+
+> Listas Json não importam os tipos de dados
+
+> Ajustar os nomes das colunas
+
+Mapas
+
+Não utilizar Siglas
+
+SP
+RJ
+MG
+
+Ideal por extenso
+
+SÃO PAULO
+RIO DE JANEIRO
+MINAS GERAIS
+
+Importar vários arquivos de uma pasta
+-------------------------------------
+
+Regras
+
+Mesma estrutura
+
+Mesmo nº de colunas (relativo em relação ao primeiro)
+
+Mesmo tipo de dados
+
+Mesmo nome de planilha
+
+Mesma quantidade de planilha
+
+arquivo 1 (Exemplo)
+
+coluna1		coluna2		coluna3
+
+
+
+arquivo 2
+
+coluna1		coluna2		
+
+
+coluna1		coluna2		coluna3
+xxxx		xxxx		xxxxx
+xxxx		xxxx		xxxxx
+xxxx		xxxx		xxxxx
+xxxx		xxxx		NULL
+xxxx		xxxx		NULL
+xxxx		xxxx		NULL
+
+Rótulos de Coluna deverão ter a mesma grafia
+
+Codigo <> Código
+
+Codigo <> CODIGO (Power Query faz diferença)
+
+
+
+
