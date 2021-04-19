@@ -19,6 +19,9 @@
 		{
 			"name": "Python Aplicado a Big Data",
 			"path": "..\\Python Aplicado a Big Data"
+		},
+		{
+			"path": "..\\Lendo XML e usando Pandas"
 		}
 	],
 	"settings": {
