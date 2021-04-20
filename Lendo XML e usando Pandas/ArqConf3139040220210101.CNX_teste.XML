@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mensagemSIB>
+  <cabecalho>
+    <identificacaoTransacao>
+      <tipoTransacao>CONFERENCIA CADASTRAL</tipoTransacao>
+      <sequencialTransacao>1</sequencialTransacao>
+      <dataHoraRegistroTransacao>2021-03-15T16:26:12.284</dataHoraRegistroTransacao>
+    </identificacaoTransacao>
+    <origem>
+      <cnpj>03589068000146</cnpj>
+    </origem>
+    <destino>
+      <registroANS>313904</registroANS>
+    </destino>
+    <versaoPadrao>1.1</versaoPadrao>
+    <identificacaoSoftwareGerador>
+      <nomeAplicativo>SIB-XML-CONFERENCIA</nomeAplicativo>
+      <versaoAplicativo>ANS</versaoAplicativo>
+      <fabricanteAplicativo>1.1.1</fabricanteAplicativo>
+    </identificacaoSoftwareGerador>
+  </cabecalho>
+  <mensagem>
+    <ansParaOperadora>
+      <conferencia>
+        <beneficiario cco="051550957403" situacao="ATIVO" dataAtualizacao="2021-02-04">
+          <identificacao>
+            <cpf>01324097710</cpf>
+            <cns>702005803709787</cns>
+            <nome>MARLI CESAR DA VITORIA DUARTE</nome>
+            <sexo>3</sexo>
+            <dataNascimento>1965-11-09</dataNascimento>
+            <nomeMae>CANDIDA ANDRE DA VITORIA</nomeMae>
+          </identificacao>
+          <endereco>
+            <logradouro>RUA OITICICA</logradouro>
+            <numero>453</numero>
+            <bairro>JARDIM DA POSSE</bairro>
+            <codigoMunicipio>330350</codigoMunicipio>
+            <cep>26021070</cep>
+            <tipoEndereco>2</tipoEndereco>
+            <resideExterior>0</resideExterior>
+          </endereco>
+          <vinculo>
+            <codigoBeneficiario>100028518</codigoBeneficiario>
+            <relacaoDependencia>3</relacaoDependencia>
+            <ccoBeneficiarioTitular>034123581000</ccoBeneficiarioTitular>
+            <dataContratacao>2021-01-19</dataContratacao>
+            <numeroPlanoANS>467928128</numeroPlanoANS>
+            <coberturaParcialTemporaria>0</coberturaParcialTemporaria>
+            <itensExcluidosCobertura>0</itensExcluidosCobertura>
+            <cnpjEmpresaContratante>34268789000188</cnpjEmpresaContratante>
+          </vinculo>
+        </beneficiario> 
+      </conferencia>
+    </ansParaOperadora>
+  </mensagem>
+  <epilogo>
+    <hash>HASH_NAO_IMPLEMENTADO_NESTA_VERSAO</hash>
+  </epilogo>
+</mensagemSIB>
