@@ -72,4 +72,3 @@ df.insert(loc=4,column='cd_plano',value=create_cd_plano(lista['numeroplanoans'])
 
 df_sorted = df.sort_values(by=['nome','cd_plano'])
 df_sorted.to_excel('Arquivo SIB.xlsx')
-
