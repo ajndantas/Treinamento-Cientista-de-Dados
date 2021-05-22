@@ -23,7 +23,12 @@ def create_cd_plano(lista):
  
     return cd_plano
 
-def create_list(beneficiarios):
+def create_list(xml_file):
+
+    bs = BeautifulSoup(xml_file.read(),'lxml')
+
+    # Tag que possui as colunas da planilha
+    beneficiarios = bs.find_all('beneficiario')
 
     # Colunas da planilha
     cco = []
@@ -58,12 +63,7 @@ def create_list(beneficiarios):
    
 xml_file = open('ArqConf3139040220210101.CNX.xml')
 
-bs = BeautifulSoup(xml_file.read(),'lxml')
-
-# Tag que possui as colunas da planilha
-beneficiarios = bs.find_all('beneficiario')
-
-lista = create_list(beneficiarios)
+lista = create_list(xml_file)
 
 df = pd.DataFrame(lista)
 
@@ -72,3 +72,4 @@ df.insert(loc=4,column='cd_plano',value=create_cd_plano(lista['numeroplanoans'])
 
 df_sorted = df.sort_values(by=['nome','cd_plano'])
 df_sorted.to_excel('Arquivo SIB.xlsx')
+
