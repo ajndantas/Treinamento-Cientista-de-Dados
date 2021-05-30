@@ -59,8 +59,7 @@ def create_list(xml_file):
         else:
             numeroplanoans.append(beneficiario.numeroplanoans.get_text())               
 
-    return data
-        
+    return data        
    
 xml_file = open('ArqConf3139040220210101.CNX.xml')
 
