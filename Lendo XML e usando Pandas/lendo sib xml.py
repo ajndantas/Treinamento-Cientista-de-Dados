@@ -39,6 +39,8 @@ def create_list(xml_file):
     cpf = []
     numeroplanoans = []    
 
+    data = {'cco':cco , 'nome':nome, 'cpf':cpf, 'codigobeneficiario':codigobeneficiario, 'situacao':situacao, 'numeroplanoans':numeroplanoans, 'dataatualizacao':data_atualizacao}
+    
     for beneficiario in beneficiarios:
         
         cco.append(beneficiario.attrs['cco'])
@@ -47,19 +49,18 @@ def create_list(xml_file):
         situacao.append(beneficiario.attrs['situacao'])
         data_atualizacao.append(beneficiario.attrs['dataatualizacao'])        
 
-        if beneficiario.cpf is None:
+        if beneficiario.cpf is None: # O ARQUIVO NEM APRESENTA A TAG
             cpf.append("")
         else:
             cpf.append(beneficiario.cpf.get_text())
 
-        if beneficiario.numeroplanoans is None:
+        if beneficiario.numeroplanoans is None: # O ARQUIVO NEM APRESENTA A TAG
             numeroplanoans.append("")
         else:
-            numeroplanoans.append(beneficiario.numeroplanoans.get_text())
+            numeroplanoans.append(beneficiario.numeroplanoans.get_text())               
 
-        data = {'cco':cco , 'nome':nome, 'cpf':cpf, 'codigobeneficiario':codigobeneficiario, 'situacao':situacao, 'numeroplanoans':numeroplanoans, 'dataatualizacao':data_atualizacao}
-
-    return data    
+    return data
+        
    
 xml_file = open('ArqConf3139040220210101.CNX.xml')
 
