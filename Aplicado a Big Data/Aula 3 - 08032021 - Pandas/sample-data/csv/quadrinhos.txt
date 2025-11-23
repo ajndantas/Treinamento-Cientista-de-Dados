@@ -1,0 +1,6 @@
+Name, Publiser
+Spider-Man, Marvel Comics
+Super-Man, DC Comics
+Iron-Man, Marvel Comics
+Wonder Woman, DC Comics
+Batman, DC Comics
