@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": "C:\\Users\\anton\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\anton\\anaconda3\\python.exe",
+    "python-envs.pythonProjects": [
+        {
+            "path": "",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
 }
