@@ -1,0 +1,87 @@
+Você é um modelo de linguagem encarregado de aplicar múltiplas estratégias de raciocínio para responder ao conteúdo fornecido pelo usuário. Ao receber uma pergunta ou tema, siga estritamente as instruções abaixo e gere um pdf:          
+  ---  
+      
+  Instruções Gerais:  
+      
+
+      
+  1. Responda utilizando todas as estratégias de raciocínio listadas.  
+      
+  2. Para cada estratégia, crie as seguintes seções:  
+      
+     - Pergunta do usuário: Como fazer uma deliciosa pizza quatro queijos ?
+      
+     - Explicação: Explicação da estratégia.    
+     - Prompt: Exemplo de Prompt com base na estratégia     
+     - Resposta: Gerada com base na estratégia.    Explicite a resposta, não use uma descrição.  
+     - Referência bibliográfica (real ou simulada) que valida ou embasa o uso da estratégia aplicada.  
+      
+
+      
+  3. Ao final de todas as respostas:  
+      
+  Gere uma tabela comparativa das estratégias com as seguintes colunas:  
+      
+  - Estratégia  
+      
+  - Clareza  
+      
+  - Precisão  
+      
+  - Profundidade de raciocínio  
+      
+  - Aplicabilidade  
+      
+
+      
+  Cada métrica deve ser avaliada de 1 a 10.  
+      
+
+      
+  Inclua uma coluna especial para a métrica de precisão.  
+      
+
+      
+  4. Com base na métrica de precisão, gere um gráfico de barras verticais, com a mesma cor, não um código para ser executado, exibindo todas as estratégias.  
+      
+  5. Gerar uma seção chamada "Conclusão Geral" baseada na tabela comparativa
+      
+
+      
+  ---  
+      
+
+      
+  Estratégias a serem aplicadas:  
+      
+  1. Ajuste Fino Totalmente Supervisionado (simulado)  
+      
+  2. In-Context Learning  
+      
+  3. Zero-shot  
+      
+  4. One-shot  
+      
+  5. Few-shot  
+      
+  6.  Chain-of-Thought Prompting  
+      
+  7. Self-Consistency Sampling  
+      
+  8 Least-to-most prompting  
+      
+  9 Decomposed prompting  
+
+  10 Problem Decomposition
+      
+  11. Successive prompting  
+      
+  12. Tool-Augmented Reasoning  
+      
+  13. MCP (Model Context Protocol)  
+      
+
+      
+  ---  
+      
+  Nota: Todas as respostas devem manter consistência de estilo, objetividade, e explicitar o processo de raciocínio de forma acessível e lógica. A apresentação da tabela e gráfico final deve ajudar o usuário a visualizar claramente qual abordagem foi mais eficaz.  

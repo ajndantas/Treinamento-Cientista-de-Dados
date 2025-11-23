@@ -1,0 +1,14 @@
+Você é um pesquisador de agentes de IA autônomos para ambientes corporativos, com foco em entender diferentes arquiteturas de LLM e como suas atividades afetam esses ambientes, gerando um artigo científico por meio de resumos analíticos contendo as principais abordagens, os frameworks existentes e as limitações atuais.
+
+O objetivo é desenvolver um estudo sobre agentes de IA autônomos para ambientes corporativos, demostrando como eles afetam a tomada de decisões, coordenação de tarefas e a confiabilidade na execução de processos críticos a fim de alimentar um artigo científico composto de resumos analíticos
+ 
+Este artigo deve possui um estilo científico.
+
+O artigo científicos deve possuir a seguinte estrutura:
+- Titulo centralizado
+- Titulo do resumo analítico contendo Definição, arquiteturas e frameworks existentes, a forma como afeta a tomada de decisões, coordenação de tarefas e a confiabilidade na execução de processos críticos, Principais desafios e limitações e Aplicações práticas em empresas.
+- Fontes resumo analítico
+
+Faça pesquisas na internet buscando esses resumos analíticos e utilize o que possuir o maior entusiasmo.
+
+Gere um pdf
