@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "WebScraping - Treinamento Python",
+			"path": "..\\Eclipse\\WebScraping - Treinamento Python"
+		},
+		{
+			"name": "Teste",
+			"path": "..\\Eclipse\\Teste"
+		},
+		{
+			"name": "Treinamento Python",
+			"path": "..\\Eclipse\\Treinamento Python"
+		},
+		{
+			"name": "Python Foundation",
+			"path": "."
+		},
+		{
+			"name": "Python Aplicado a Big Data",
+			"path": "..\\Python Aplicado a Big Data"
+		},
+		{
+			"path": "..\\Lendo XML e usando Pandas"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+		"jupyter.jupyterServerType": "local"
+	}
+}

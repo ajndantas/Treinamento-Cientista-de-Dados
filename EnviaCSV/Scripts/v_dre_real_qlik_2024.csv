@@ -1,0 +1,1273 @@
+ID|NIVEL1|NIVEL2|NIVEL3|NIVEL4|NIVEL5|TOTAL|ANOMES
+1|Receita Bruta|||||      18.610.712,33|202401
+2|Tributos|ISS||||        -930.536,05|202401
+3|Tributos|COFINS||||      -1.414.414,69|202401
+4|Receita operacional líquida|||||      16.265.761,59|202401
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202401
+6|Custos dos serviços prestados|Consultas|SISEG|||        -176.368,46|202401
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -4.733.696,46|202401
+8|Custos dos serviços prestados|Outros custos||||                  0|202401
+9|Margem bruta|||||      11.355.696,67|202401
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -6.141,87|202401
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -47.989,90|202401
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -1.958.094,11|202401
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -302.880,24|202401
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202401
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||         -19.912,10|202401
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -226.948,72|202401
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202401
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||         -27.000,00|202401
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||          -3.000,00|202401
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||         -11.479,29|202401
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202401
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202401
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||          -2.250,00|202401
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -66.343,43|202401
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -440.936,15|202401
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202401
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -29.699,31|202401
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|          -8.932,00|202401
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -44.729,45|202401
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -173.310,92|202401
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -151.935,86|202401
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -10.551,35|202401
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202401
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202401
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.950,33|202401
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202401
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.346,34|202401
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202401
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -2.171,17|202401
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|                  0|202401
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|        -120.720,48|202401
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -34.415,41|202401
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -58.445,63|202401
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -518.195,27|202401
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -10.765,79|202401
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|          -5.171,52|202401
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -159.277,73|202401
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -18.311,65|202401
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -20.343,94|202401
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.269,42|202401
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -1.349,61|202401
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||        -262.544,90|202401
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -391.724,73|202401
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202401
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||         -67.560,82|202401
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||        -895.538,86|202401
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -150.948,35|202401
+58|Despesas operacionais|Eventos|Eventos|||         -56.317,73|202401
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202401
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202401
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.215,86|202401
+62|Despesas operacionais|Localização|Condomínio|||        -151.187,67|202401
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -2.850,00|202401
+64|Despesas operacionais|Localização|Outras|||         -68.203,77|202401
+65|Despesas operacionais|Localização|Energia elétrica|||         -56.919,63|202401
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202401
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -296.907,74|202401
+68|Despesas operacionais|Marketing|Comunicação institucional|||                  0|202401
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202401
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||        -717.508,41|202401
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202401
+72|Despesas operacionais|Representação institucional|Viagens|||         -25.440,88|202401
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202401
+74|Despesas operacionais|Representação institucional|Representação Social|||          -5.575,32|202401
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202401
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||         -19.970,21|202401
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||         -14.872,43|202401
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -10.000,00|202401
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -14.333,38|202401
+80|Despesas operacionais|Outras despesas|Comunicação|||         -30.108,46|202401
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202401
+82|Despesas operacionais|Outras despesas|Veículos|||         -12.193,71|202401
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          38.962,11|202401
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.000,00|202401
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -16.965,61|202401
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             913,28|202401
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -619.957,41|202401
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -1.268,60|202401
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202401
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|                  0|202401
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202401
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202401
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|            -139,90|202401
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|                  0|202401
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202401
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|          -3.766,97|202401
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202401
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -1.194,00|202401
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202401
+100|Resultado operacional|||||       2.978.137,72|202401
+101|Resultado de equivalência patrimonial|||||                  0|202401
+102|Resultado não operacional|||||                  0|202401
+103|Receitas financeiras|||||       4.389.526,95|202401
+104|Despesas financeiras|||||        -948.972,74|202401
+105|Resultado financeiro|||||       3.440.554,21|202401
+106|Superávit do exercício|||||       6.418.691,93|202401
+1|Receita Bruta|||||      17.025.823,00|202402
+2|Tributos|ISS||||        -851.144,21|202402
+3|Tributos|COFINS||||      -1.293.752,61|202402
+4|Receita operacional líquida|||||      14.880.926,18|202402
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202402
+6|Custos dos serviços prestados|Consultas|SISEG|||        -206.457,33|202402
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -4.433.192,45|202402
+8|Custos dos serviços prestados|Outros custos||||                  0|202402
+9|Margem bruta|||||      10.241.276,40|202402
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.758,16|202402
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -53.308,35|202402
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.522.945,62|202402
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -283.375,82|202402
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202402
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||        -542.828,43|202402
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -224.716,74|202402
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202402
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||         -19.688,94|202402
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||          -1.741,93|202402
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||         -19.632,99|202402
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202402
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202402
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||          -2.113,69|202402
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -56.666,12|202402
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -378.541,56|202402
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202402
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -28.842,60|202402
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|          -6.919,80|202402
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -43.647,15|202402
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -173.310,92|202402
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -150.560,36|202402
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -11.296,21|202402
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202402
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202402
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -8.164,45|202402
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202402
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.334,95|202402
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202402
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|            -460,85|202402
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|                  0|202402
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|        -118.630,35|202402
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -60.222,85|202402
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -57.841,69|202402
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -797.344,45|202402
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -18.862,19|202402
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|          -3.078,46|202402
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -248.861,87|202402
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -18.161,53|202402
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -31.289,64|202402
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.252,04|202402
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -2.361,63|202402
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||        -184.344,90|202402
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -294.736,60|202402
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202402
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||         -20.889,36|202402
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||        -560.359,56|202402
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -156.823,90|202402
+58|Despesas operacionais|Eventos|Eventos|||         -76.268,40|202402
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202402
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202402
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -29.923,06|202402
+62|Despesas operacionais|Localização|Condomínio|||        -151.157,67|202402
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -9.990,00|202402
+64|Despesas operacionais|Localização|Outras|||         -40.501,87|202402
+65|Despesas operacionais|Localização|Energia elétrica|||         -50.117,53|202402
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202402
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -295.236,09|202402
+68|Despesas operacionais|Marketing|Comunicação institucional|||                  0|202402
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202402
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||        -521.347,49|202402
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||            -844,71|202402
+72|Despesas operacionais|Representação institucional|Viagens|||        -261.616,58|202402
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202402
+74|Despesas operacionais|Representação institucional|Representação Social|||         -11.586,23|202402
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202402
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202402
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -2.654,31|202402
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202402
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -10.021,09|202402
+80|Despesas operacionais|Outras despesas|Comunicação|||         -23.305,87|202402
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202402
+82|Despesas operacionais|Outras despesas|Veículos|||          -7.649,04|202402
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          38.725,93|202402
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.000,00|202402
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -16.965,61|202402
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             420,58|202402
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||         828.833,51|202402
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -2.636,37|202402
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|         -30.822,90|202402
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|                  0|202402
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202402
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202402
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202402
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|            -269,40|202402
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|          -1.824,00|202402
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|          -8.406,85|202402
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202402
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|         -13.257,92|202402
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202402
+100|Resultado operacional|||||       2.404.586,77|202402
+101|Resultado de equivalência patrimonial|||||                  0|202402
+102|Resultado não operacional|||||          76.000,00|202402
+103|Receitas financeiras|||||       3.728.280,08|202402
+104|Despesas financeiras|||||        -991.306,34|202402
+105|Resultado financeiro|||||       2.736.973,74|202402
+106|Superávit do exercício|||||       5.217.560,51|202402
+1|Receita Bruta|||||      18.164.410,92|202403
+2|Tributos|ISS||||        -907.469,19|202403
+3|Tributos|COFINS||||      -1.379.353,18|202403
+4|Receita operacional líquida|||||      15.877.588,55|202403
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202403
+6|Custos dos serviços prestados|Consultas|SISEG|||        -161.256,12|202403
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -4.796.306,33|202403
+8|Custos dos serviços prestados|Outros custos||||                  0|202403
+9|Margem bruta|||||      10.920.026,10|202403
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -6.788,39|202403
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -51.363,14|202403
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.625.436,72|202403
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -332.905,42|202403
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202403
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||          -8.551,80|202403
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -228.458,80|202403
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202403
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||         -12.376,97|202403
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||          -1.991,45|202403
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||         -21.279,46|202403
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202403
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202403
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||          -1.158,77|202403
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -75.993,09|202403
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -504.069,58|202403
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202403
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -26.558,04|202403
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -19.551,80|202403
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -43.763,32|202403
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -172.219,64|202403
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -150.973,76|202403
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -11.803,00|202403
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202403
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202403
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|         -10.377,00|202403
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202403
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.312,17|202403
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202403
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|            -921,70|202403
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|                  0|202403
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|        -119.681,86|202403
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -81.884,81|202403
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -58.552,47|202403
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -686.495,63|202403
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -25.658,17|202403
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|          -2.199,15|202403
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -215.273,29|202403
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -18.466,84|202403
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -26.933,01|202403
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.299,72|202403
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -3.211,18|202403
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||        -451.442,90|202403
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -407.763,30|202403
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202403
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||         -37.158,33|202403
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.574.146,19|202403
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -155.796,58|202403
+58|Despesas operacionais|Eventos|Eventos|||        -106.944,48|202403
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202403
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202403
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -26.140,21|202403
+62|Despesas operacionais|Localização|Condomínio|||        -151.820,76|202403
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -5.935,90|202403
+64|Despesas operacionais|Localização|Outras|||         -43.415,24|202403
+65|Despesas operacionais|Localização|Energia elétrica|||         -58.876,30|202403
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202403
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -290.245,29|202403
+68|Despesas operacionais|Marketing|Comunicação institucional|||                  0|202403
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202403
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||        -385.186,32|202403
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202403
+72|Despesas operacionais|Representação institucional|Viagens|||        -542.120,41|202403
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202403
+74|Despesas operacionais|Representação institucional|Representação Social|||         -29.323,50|202403
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202403
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202403
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||         -14.906,40|202403
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202403
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -22.296,91|202403
+80|Despesas operacionais|Outras despesas|Comunicação|||         -21.976,84|202403
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202403
+82|Despesas operacionais|Outras despesas|Veículos|||          -4.067,97|202403
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          36.036,29|202403
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||                  0|202403
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202403
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||                  0|202403
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -359.180,81|202403
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -2.670,42|202403
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|         -55.839,17|202403
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|                  0|202403
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202403
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202403
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202403
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|                  0|202403
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|            -872,70|202403
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -12.197,11|202403
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202403
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|         -43.662,22|202403
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202403
+100|Resultado operacional|||||         556.148,80|202403
+101|Resultado de equivalência patrimonial|||||                  0|202403
+102|Resultado não operacional|||||            -149,28|202403
+103|Receitas financeiras|||||       3.955.917,76|202403
+104|Despesas financeiras|||||        -878.425,50|202403
+105|Resultado financeiro|||||       3.077.492,26|202403
+106|Superávit do exercício|||||       3.633.491,78|202403
+1|Receita Bruta|||||      19.310.354,42|202404
+2|Tributos|ISS||||        -965.518,13|202404
+3|Tributos|COFINS||||      -1.467.587,82|202404
+4|Receita operacional líquida|||||      16.877.248,47|202404
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202404
+6|Custos dos serviços prestados|Consultas|SISEG|||        -217.080,64|202404
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.163.855,70|202404
+8|Custos dos serviços prestados|Outros custos||||                  0|202404
+9|Margem bruta|||||      11.496.312,13|202404
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -8.896,00|202404
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -64.651,87|202404
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.967.259,99|202404
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -512.085,99|202404
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202404
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||          -9.453,65|202404
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -265.840,81|202404
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202404
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||         -13.397,83|202404
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||            -553,04|202404
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||         -12.287,78|202404
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202404
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202404
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||          -1.525,60|202404
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -65.830,18|202404
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -440.966,68|202404
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202404
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -29.630,95|202404
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -17.301,80|202404
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -46.968,27|202404
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -199.508,60|202404
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -171.853,12|202404
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -11.641,10|202404
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202404
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202404
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|         -10.930,46|202404
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202404
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.334,95|202404
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202404
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -1.493,14|202404
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|                  0|202404
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|        -124.345,54|202404
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|        -101.659,79|202404
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -68.178,51|202404
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -777.816,67|202404
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -31.853,16|202404
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|          -3.084,84|202404
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -243.204,72|202404
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -21.489,67|202404
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -30.517,78|202404
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.674,36|202404
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -3.986,70|202404
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||        -270.773,38|202404
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -533.765,62|202404
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202404
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -242.467,86|202404
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.057.911,85|202404
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -154.380,35|202404
+58|Despesas operacionais|Eventos|Eventos|||        -964.069,73|202404
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202404
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202404
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.979,86|202404
+62|Despesas operacionais|Localização|Condomínio|||        -145.474,52|202404
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -4.890,00|202404
+64|Despesas operacionais|Localização|Outras|||         -40.501,87|202404
+65|Despesas operacionais|Localização|Energia elétrica|||         -44.677,51|202404
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202404
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -293.367,72|202404
+68|Despesas operacionais|Marketing|Comunicação institucional|||                  0|202404
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202404
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||        -613.159,57|202404
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||          -5.053,45|202404
+72|Despesas operacionais|Representação institucional|Viagens|||        -240.796,49|202404
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202404
+74|Despesas operacionais|Representação institucional|Representação Social|||         -19.372,10|202404
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202404
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202404
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -4.948,62|202404
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202404
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -26.208,37|202404
+80|Despesas operacionais|Outras despesas|Comunicação|||         -67.298,03|202404
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202404
+82|Despesas operacionais|Outras despesas|Veículos|||          -4.549,00|202404
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          35.446,55|202404
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -4.000,00|202404
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202404
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||                  0|202404
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||         148.227,06|202404
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -1.706,80|202404
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202404
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -270,00|202404
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202404
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202404
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202404
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|          -1.436,40|202404
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202404
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|          -7.734,86|202404
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202404
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -8.020,58|202404
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202404
+100|Resultado operacional|||||         588.530,47|202404
+101|Resultado de equivalência patrimonial|||||                  0|202404
+102|Resultado não operacional|||||                  0|202404
+103|Receitas financeiras|||||       3.654.852,05|202404
+104|Despesas financeiras|||||        -779.772,90|202404
+105|Resultado financeiro|||||       2.875.079,15|202404
+106|Superávit do exercício|||||       3.463.609,62|202404
+1|Receita Bruta|||||      26.112.192,51|202405
+2|Tributos|ISS||||        -948.365,64|202405
+3|Tributos|COFINS||||      -1.441.516,09|202405
+4|Receita operacional líquida|||||      23.722.310,78|202405
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202405
+6|Custos dos serviços prestados|Consultas|SISEG|||        -160.926,28|202405
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.033.990,86|202405
+8|Custos dos serviços prestados|Outros custos||||                  0|202405
+9|Margem bruta|||||      18.527.393,64|202405
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.597,95|202405
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -77.217,58|202405
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.625.444,55|202405
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -319.625,01|202405
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202405
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||         -56.752,53|202405
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -229.132,66|202405
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202405
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||        -384.296,33|202405
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||         -30.209,38|202405
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||        -549.887,27|202405
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||        -145.898,15|202405
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202405
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||         -24.032,48|202405
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -66.847,46|202405
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -621.106,81|202405
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202405
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -29.164,78|202405
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -26.791,49|202405
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -47.299,28|202405
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -181.753,23|202405
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -155.857,58|202405
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -11.277,69|202405
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202405
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202405
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|         -13.206,28|202405
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202405
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.380,51|202405
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202405
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -3.216,58|202405
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|         -20.165,00|202405
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|        -116.915,74|202405
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|          11.685,18|202405
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -64.557,13|202405
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -705.588,23|202405
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|           3.698,33|202405
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|         -43.768,95|202405
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -209.491,26|202405
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -20.353,89|202405
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -27.910,41|202405
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.306,94|202405
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|             458,17|202405
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||        -598.111,73|202405
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||      -1.126.203,65|202405
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202405
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -244.860,73|202405
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.726.023,93|202405
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -144.897,01|202405
+58|Despesas operacionais|Eventos|Eventos|||      -1.698.715,04|202405
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202405
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202405
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.169,86|202405
+62|Despesas operacionais|Localização|Condomínio|||        -145.434,02|202405
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -2.850,00|202405
+64|Despesas operacionais|Localização|Outras|||         -40.501,87|202405
+65|Despesas operacionais|Localização|Energia elétrica|||         -48.343,96|202405
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202405
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -290.802,12|202405
+68|Despesas operacionais|Marketing|Comunicação institucional|||                  0|202405
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202405
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -1.162.605,52|202405
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202405
+72|Despesas operacionais|Representação institucional|Viagens|||        -563.238,29|202405
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202405
+74|Despesas operacionais|Representação institucional|Representação Social|||         -27.550,65|202405
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202405
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202405
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||         -95.894,31|202405
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202405
+79|Despesas operacionais|Outras despesas|Comunicação|||         -33.921,06|202405
+80|Despesas operacionais|Outras despesas|Crédito COFINS|||          38.964,37|202405
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202405
+82|Despesas operacionais|Outras despesas|Material de expediente|||         -17.157,65|202405
+83|Despesas operacionais|Outras despesas|Veículos|||          -6.210,14|202405
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||         -10.432,61|202405
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202405
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||               6,53|202405
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -127.458,47|202405
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -1.035,00|202405
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202405
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|          -1.389,00|202405
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202405
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202405
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202405
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|          -1.269,00|202405
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|            -879,82|202405
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -11.465,91|202405
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202405
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|            -796,00|202405
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202405
+100|Resultado operacional|||||       3.563.518,56|202405
+101|Resultado de equivalência patrimonial|||||                  0|202405
+102|Resultado não operacional|||||                  0|202405
+103|Receitas financeiras|||||       3.862.736,93|202405
+104|Despesas financeiras|||||        -523.096,78|202405
+105|Resultado financeiro|||||       3.339.640,15|202405
+106|Superávit do exercício|||||       6.903.158,71|202405
+1|Receita Bruta|||||      18.676.998,06|202406
+2|Tributos|ISS||||        -918.984,71|202406
+3|Tributos|COFINS||||      -1.396.858,28|202406
+4|Receita operacional líquida|||||      16.361.155,07|202406
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202406
+6|Custos dos serviços prestados|Consultas|SISEG|||        -172.513,26|202406
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -4.859.993,95|202406
+8|Custos dos serviços prestados|Outros custos||||                  0|202406
+9|Margem bruta|||||      11.328.647,86|202406
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||         -81.542,39|202406
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -50.130,54|202406
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.214.446,49|202406
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -253.704,85|202406
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202406
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||        -107.205,29|202406
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -200.741,75|202406
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202406
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||        -518.559,15|202406
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||         -61.606,14|202406
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||        -498.356,14|202406
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||        -362.323,97|202406
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202406
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||         -33.802,06|202406
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -89.289,09|202406
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -482.102,89|202406
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202406
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -32.669,29|202406
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|          -3.611,45|202406
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -45.651,61|202406
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -180.509,31|202406
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -156.453,88|202406
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -12.401,73|202406
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202406
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202406
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|         -11.084,38|202406
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202406
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.403,29|202406
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202406
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -2.327,21|202406
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|          -8.474,00|202406
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -92.722,89|202406
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|          96.410,46|202406
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -59.808,56|202406
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -625.597,74|202406
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|          30.278,89|202406
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|         -64.815,67|202406
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -173.525,10|202406
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -19.308,69|202406
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -24.871,25|202406
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -2.016,61|202406
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|           3.780,81|202406
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -2.000.243,52|202406
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -581.376,70|202406
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202406
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -101.923,85|202406
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||        -726.198,39|202406
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -143.725,46|202406
+58|Despesas operacionais|Eventos|Eventos|||      -1.405.774,48|202406
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202406
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202406
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.570,86|202406
+62|Despesas operacionais|Localização|Condomínio|||        -157.118,52|202406
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -8.600,00|202406
+64|Despesas operacionais|Localização|Outras|||         -40.501,87|202406
+65|Despesas operacionais|Localização|Energia elétrica|||         -47.344,36|202406
+66|Despesas operacionais|Localização|Aluguel|||         -44.060,00|202406
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -290.867,32|202406
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202406
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202406
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -2.590.828,39|202406
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||         -34.016,83|202406
+72|Despesas operacionais|Representação institucional|Viagens|||        -441.422,35|202406
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202406
+74|Despesas operacionais|Representação institucional|Representação Social|||         -18.181,38|202406
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202406
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202406
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -2.294,31|202406
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202406
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -50.745,16|202406
+80|Despesas operacionais|Outras despesas|Comunicação|||         -22.276,50|202406
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202406
+82|Despesas operacionais|Outras despesas|Veículos|||          -1.523,64|202406
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||         193.731,42|202406
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.860,93|202406
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202406
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             104,83|202406
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -304.162,45|202406
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -4.574,57|202406
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202406
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -760,00|202406
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202406
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202406
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202406
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|            -875,30|202406
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202406
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|          -2.909,23|202406
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202406
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|         -15.444,67|202406
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202406
+100|Resultado operacional|||||      -4.019.357,36|202406
+101|Resultado de equivalência patrimonial|||||                  0|202406
+102|Resultado não operacional|||||                  0|202406
+103|Receitas financeiras|||||       3.542.741,02|202406
+104|Despesas financeiras|||||        -779.932,97|202406
+105|Resultado financeiro|||||       2.762.808,05|202406
+106|Superávit do exercício|||||      -1.256.549,31|202406
+1|Receita Bruta|||||      19.800.235,54|202407
+2|Tributos|ISS||||        -983.135,66|202407
+3|Tributos|COFINS||||      -1.494.366,58|202407
+4|Receita operacional líquida|||||      17.322.733,30|202407
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202407
+6|Custos dos serviços prestados|Consultas|SISEG|||        -206.923,27|202407
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.247.563,40|202407
+8|Custos dos serviços prestados|Outros custos||||                  0|202407
+9|Margem bruta|||||      11.868.246,63|202407
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.530,58|202407
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -72.350,00|202407
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -1.858.936,49|202407
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -256.513,02|202407
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202407
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||        -747.461,99|202407
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -184.915,57|202407
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202407
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||        -177.424,33|202407
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||         -17.119,95|202407
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||        -384.440,02|202407
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||         -83.380,90|202407
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202407
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||         -12.840,96|202407
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -70.146,07|202407
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -478.534,59|202407
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202407
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -33.580,08|202407
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -15.330,50|202407
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -43.818,98|202407
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -176.421,72|202407
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -153.074,27|202407
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -13.235,08|202407
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202407
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202407
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|         -11.839,54|202407
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202407
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.357,73|202407
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202407
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -1.368,65|202407
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|         -67.470,00|202407
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -89.761,96|202407
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|          -2.869,07|202407
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -50.427,99|202407
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -685.001,23|202407
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|            -867,74|202407
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|         -16.921,86|202407
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -211.959,26|202407
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -15.861,75|202407
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -26.991,23|202407
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.857,32|202407
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|            -112,49|202407
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -2.341.010,80|202407
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||      -1.175.657,14|202407
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202407
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -111.533,38|202407
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.213.000,07|202407
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -157.274,30|202407
+58|Despesas operacionais|Eventos|Eventos|||      -2.419.461,29|202407
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202407
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202407
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -34.098,81|202407
+62|Despesas operacionais|Localização|Condomínio|||        -152.073,52|202407
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -7.323,50|202407
+64|Despesas operacionais|Localização|Outras|||         -40.501,87|202407
+65|Despesas operacionais|Localização|Energia elétrica|||         -42.748,41|202407
+66|Despesas operacionais|Localização|Aluguel|||         -22.705,00|202407
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -300.396,42|202407
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202407
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202407
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -1.057.419,98|202407
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202407
+72|Despesas operacionais|Representação institucional|Viagens|||        -388.997,87|202407
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202407
+74|Despesas operacionais|Representação institucional|Representação Social|||         -26.654,07|202407
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202407
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202407
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -3.014,31|202407
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202407
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -27.654,97|202407
+80|Despesas operacionais|Outras despesas|Comunicação|||         -39.307,45|202407
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202407
+82|Despesas operacionais|Outras despesas|Veículos|||          -5.448,52|202407
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||         204.043,17|202407
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||         -80.651,84|202407
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202407
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             701,66|202407
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -273.049,29|202407
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -2.928,24|202407
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|            -159,99|202407
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -210,00|202407
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|          -1.674,93|202407
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202407
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|          -3.139,01|202407
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|            -156,50|202407
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|          -3.602,71|202407
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -36.721,89|202407
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202407
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -3.422,24|202407
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202407
+100|Resultado operacional|||||      -4.006.796,96|202407
+101|Resultado de equivalência patrimonial|||||                  0|202407
+102|Resultado não operacional|||||                  0|202407
+103|Receitas financeiras|||||       4.374.625,71|202407
+104|Despesas financeiras|||||      -1.015.885,42|202407
+105|Resultado financeiro|||||       3.358.740,29|202407
+106|Superávit do exercício|||||        -648.056,67|202407
+1|Receita Bruta|||||      19.513.970,12|202408
+2|Tributos|ISS||||        -975.680,12|202408
+3|Tributos|COFINS||||      -1.483.062,80|202408
+4|Receita operacional líquida|||||      17.055.227,20|202408
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202408
+6|Custos dos serviços prestados|Consultas|SISEG|||        -188.517,21|202408
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.324.083,86|202408
+8|Custos dos serviços prestados|Outros custos||||                  0|202408
+9|Margem bruta|||||      11.542.626,13|202408
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.261,63|202408
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -39.254,05|202408
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.035.272,89|202408
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -270.165,55|202408
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202408
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||         -31.878,04|202408
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -199.351,35|202408
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202408
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||        -209.076,81|202408
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||         -27.629,81|202408
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||        -327.172,97|202408
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||         -93.179,51|202408
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202408
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||         -14.521,09|202408
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -71.632,41|202408
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -485.235,72|202408
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202408
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -36.094,67|202408
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -56.764,97|202408
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -43.243,13|202408
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -180.323,16|202408
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -155.973,35|202408
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -13.294,43|202408
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202408
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202408
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.797,04|202408
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202408
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.428,82|202408
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202408
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -2.327,21|202408
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|           1.744,00|202408
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -89.718,86|202408
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -28.095,18|202408
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -54.537,63|202408
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -538.984,95|202408
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|          -8.781,58|202408
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|         -22.786,74|202408
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -162.817,54|202408
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -17.091,83|202408
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -21.281,94|202408
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.994,31|202408
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -1.101,73|202408
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -1.141.800,12|202408
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -795.630,13|202408
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202408
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -146.724,10|202408
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.062.406,10|202408
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -146.360,15|202408
+58|Despesas operacionais|Eventos|Eventos|||        -131.184,09|202408
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202408
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202408
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -27.172,85|202408
+62|Despesas operacionais|Localização|Condomínio|||        -160.269,17|202408
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -6.450,00|202408
+64|Despesas operacionais|Localização|Outras|||         -44.525,58|202408
+65|Despesas operacionais|Localização|Energia elétrica|||         -38.696,85|202408
+66|Despesas operacionais|Localização|Aluguel|||          -1.557,00|202408
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -300.468,40|202408
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202408
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202408
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||        -816.528,97|202408
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202408
+72|Despesas operacionais|Representação institucional|Viagens|||        -482.075,41|202408
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202408
+74|Despesas operacionais|Representação institucional|Representação Social|||         -47.749,73|202408
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202408
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202408
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -2.654,31|202408
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202408
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -41.839,47|202408
+80|Despesas operacionais|Outras despesas|Comunicação|||         -35.611,83|202408
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202408
+82|Despesas operacionais|Outras despesas|Veículos|||          -9.490,60|202408
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          36.431,42|202408
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.244,80|202408
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202408
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             178,46|202408
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||         -87.508,54|202408
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -3.119,23|202408
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202408
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|                  0|202408
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202408
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202408
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202408
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|          -1.547,67|202408
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202408
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|        -142.427,91|202408
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202408
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -1.263,29|202408
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202408
+100|Resultado operacional|||||         509.535,63|202408
+101|Resultado de equivalência patrimonial|||||                  0|202408
+102|Resultado não operacional|||||          -4.654,05|202408
+103|Receitas financeiras|||||       4.061.085,44|202408
+104|Despesas financeiras|||||      -1.257.589,92|202408
+105|Resultado financeiro|||||       2.803.495,52|202408
+106|Superávit do exercício|||||       3.308.377,10|202408
+1|Receita Bruta|||||      18.702.574,10|202409
+2|Tributos|ISS||||        -935.119,27|202409
+3|Tributos|COFINS||||      -1.421.390,27|202409
+4|Receita operacional líquida|||||      16.346.064,56|202409
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202409
+6|Custos dos serviços prestados|Consultas|SISEG|||        -166.081,72|202409
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.045.520,89|202409
+8|Custos dos serviços prestados|Outros custos||||                  0|202409
+9|Margem bruta|||||      11.134.461,95|202409
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -6.992,68|202409
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -54.627,27|202409
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -1.974.668,76|202409
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -228.074,18|202409
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202409
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||         -12.198,26|202409
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -179.125,04|202409
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202409
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||         -12.623,04|202409
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||          -1.400,33|202409
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||         -28.809,09|202409
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202409
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202409
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||          -1.052,75|202409
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -71.300,25|202409
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -481.719,89|202409
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|          -1.127,52|202409
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -39.737,78|202409
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -45.857,02|202409
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -41.324,45|202409
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -183.004,46|202409
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -163.633,79|202409
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -13.390,24|202409
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202409
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202409
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.382,04|202409
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202409
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -3.769,77|202409
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|            -152,00|202409
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -1.437,84|202409
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|            -568,00|202409
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -84.043,08|202409
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -44.276,40|202409
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -45.945,21|202409
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -522.363,40|202409
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -163.139,65|202409
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -13.858,29|202409
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -14.396,56|202409
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|          -1.534,80|202409
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -1.736,34|202409
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -20.495,07|202409
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.792,14|202409
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -1.527.584,39|202409
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -700.517,68|202409
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202409
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -294.252,65|202409
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.112.544,44|202409
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -145.166,72|202409
+58|Despesas operacionais|Eventos|Eventos|||        -394.294,17|202409
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202409
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202409
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -30.094,40|202409
+62|Despesas operacionais|Localização|Condomínio|||        -146.492,77|202409
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||         -11.370,00|202409
+64|Despesas operacionais|Localização|Outras|||         -46.314,41|202409
+65|Despesas operacionais|Localização|Energia elétrica|||         -44.743,20|202409
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202409
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -301.203,30|202409
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202409
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202409
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -2.036.815,41|202409
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202409
+72|Despesas operacionais|Representação institucional|Viagens|||        -653.397,85|202409
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202409
+74|Despesas operacionais|Representação institucional|Representação Social|||         -28.591,84|202409
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202409
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202409
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -2.654,31|202409
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202409
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -43.342,87|202409
+80|Despesas operacionais|Outras despesas|Comunicação|||         -32.004,18|202409
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202409
+82|Despesas operacionais|Outras despesas|Veículos|||          -9.375,48|202409
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          35.183,07|202409
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.222,36|202409
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202409
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||                  0|202409
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -204.566,94|202409
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -1.777,43|202409
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202409
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -820,00|202409
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202409
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202409
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202409
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|            -425,90|202409
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202409
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -11.679,37|202409
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202409
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -1.610,62|202409
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202409
+100|Resultado operacional|||||      -1.220.192,24|202409
+101|Resultado de equivalência patrimonial|||||                  0|202409
+102|Resultado não operacional|||||                  0|202409
+103|Receitas financeiras|||||       3.691.319,64|202409
+104|Despesas financeiras|||||        -798.827,02|202409
+105|Resultado financeiro|||||       2.892.492,62|202409
+106|Superávit do exercício|||||       1.672.300,38|202409
+1|Receita Bruta|||||      20.450.139,22|202410
+2|Tributos|ISS||||      -1.022.639,17|202410
+3|Tributos|COFINS||||      -1.554.414,32|202410
+4|Receita operacional líquida|||||      17.873.085,73|202410
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202410
+6|Custos dos serviços prestados|Consultas|SISEG|||        -211.131,47|202410
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.642.855,76|202410
+8|Custos dos serviços prestados|Outros custos||||                  0|202410
+9|Margem bruta|||||      12.019.098,50|202410
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.530,58|202410
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -34.329,31|202410
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.063.013,00|202410
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -258.972,96|202410
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202410
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||                  0|202410
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -183.073,85|202410
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202410
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||                  0|202410
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||                  0|202410
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||                  0|202410
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202410
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202410
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||                  0|202410
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -68.876,78|202410
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -469.252,24|202410
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202410
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -43.895,69|202410
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|          -2.000,00|202410
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -42.902,08|202410
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -185.796,37|202410
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -165.273,45|202410
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -14.892,03|202410
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202410
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202410
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.851,32|202410
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202410
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.494,41|202410
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|                  0|202410
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|            -479,28|202410
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|         -49.037,00|202410
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -84.043,08|202410
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -60.424,23|202410
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -46.683,79|202410
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -536.742,49|202410
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -18.994,21|202410
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|                  0|202410
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -168.146,54|202410
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -14.629,52|202410
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -21.048,71|202410
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.831,81|202410
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -2.369,51|202410
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -1.311.709,55|202410
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||        -847.919,27|202410
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||                  0|202410
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -480.141,08|202410
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.320.924,27|202410
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -181.264,57|202410
+58|Despesas operacionais|Eventos|Eventos|||        -244.676,70|202410
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202410
+60|Despesas operacionais|Eventos|Outros eventos|||           2.666,67|202410
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.900,00|202410
+62|Despesas operacionais|Localização|Condomínio|||        -158.446,77|202410
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -8.348,00|202410
+64|Despesas operacionais|Localização|Outras|||         -44.063,27|202410
+65|Despesas operacionais|Localização|Energia elétrica|||         -51.999,24|202410
+66|Despesas operacionais|Localização|Aluguel|||                  0|202410
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -304.372,44|202410
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202410
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202410
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -1.750.348,06|202410
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||                  0|202410
+72|Despesas operacionais|Representação institucional|Viagens|||      -1.998.521,81|202410
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202410
+74|Despesas operacionais|Representação institucional|Representação Social|||         -24.805,92|202410
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202410
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202410
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -2.654,31|202410
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202410
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -52.020,53|202410
+80|Despesas operacionais|Outras despesas|Comunicação|||         -32.881,76|202410
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202410
+82|Despesas operacionais|Outras despesas|Veículos|||          -7.366,42|202410
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          39.277,90|202410
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.000,00|202410
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202410
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||                  0|202410
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||         949.464,60|202410
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -1.208,72|202410
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|                  0|202410
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -270,00|202410
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|          -2.350,00|202410
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202410
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|          -9.772,20|202410
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|          -2.531,47|202410
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|                  0|202410
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -15.759,97|202410
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202410
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -6.560,60|202410
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202410
+100|Resultado operacional|||||        -569.125,34|202410
+101|Resultado de equivalência patrimonial|||||                  0|202410
+102|Resultado não operacional|||||        -135.291,23|202410
+103|Receitas financeiras|||||       3.851.215,54|202410
+104|Despesas financeiras|||||        -926.840,09|202410
+105|Resultado financeiro|||||       2.924.375,45|202410
+106|Superávit do exercício|||||       2.219.958,88|202410
+1|Receita Bruta|||||      18.837.896,88|202411
+2|Tributos|ISS||||        -940.616,11|202411
+3|Tributos|COFINS||||      -1.429.736,68|202411
+4|Receita operacional líquida|||||      16.467.544,09|202411
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202411
+6|Custos dos serviços prestados|Consultas|SISEG|||        -171.579,89|202411
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.141.608,77|202411
+8|Custos dos serviços prestados|Outros custos||||                  0|202411
+9|Margem bruta|||||      11.154.355,43|202411
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -8.068,48|202411
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -60.550,31|202411
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.118.371,68|202411
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -247.347,42|202411
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202411
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||          -8.155,45|202411
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -189.888,49|202411
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202411
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||                  0|202411
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||                  0|202411
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||                  0|202411
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202411
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202411
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||            -324,74|202411
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -67.742,32|202411
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -458.197,89|202411
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202411
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -41.737,56|202411
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|         -13.380,00|202411
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -42.193,51|202411
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -187.752,95|202411
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -166.520,28|202411
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -12.937,20|202411
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202411
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202411
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.851,32|202411
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202411
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.517,19|202411
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|          -2.429,00|202411
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|          -2.396,40|202411
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|           2.347,00|202411
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -84.616,87|202411
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -55.624,73|202411
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -48.421,57|202411
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|        -559.762,16|202411
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -17.536,73|202411
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|            -229,87|202411
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -175.279,82|202411
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -15.166,49|202411
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -21.948,15|202411
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.898,75|202411
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -2.181,45|202411
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -1.099.277,73|202411
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||      -1.368.431,68|202411
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||         -54.049,34|202411
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||        -144.256,62|202411
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -1.717.930,62|202411
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -189.649,04|202411
+58|Despesas operacionais|Eventos|Eventos|||        -528.496,64|202411
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202411
+60|Despesas operacionais|Eventos|Outros eventos|||          20.333,33|202411
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -25.017,50|202411
+62|Despesas operacionais|Localização|Condomínio|||        -158.446,77|202411
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -3.640,00|202411
+64|Despesas operacionais|Localização|Outras|||         -44.063,27|202411
+65|Despesas operacionais|Localização|Energia elétrica|||         -49.092,77|202411
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202411
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -309.964,97|202411
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -93.060,00|202411
+69|Despesas operacionais|Marketing|Anúncios e editais|||                  0|202411
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -1.020.159,19|202411
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||          -3.520,00|202411
+72|Despesas operacionais|Representação institucional|Viagens|||        -408.719,13|202411
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202411
+74|Despesas operacionais|Representação institucional|Representação Social|||         -20.393,53|202411
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202411
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||                  0|202411
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -3.828,31|202411
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202411
+79|Despesas operacionais|Outras despesas|Material de expediente|||         -32.192,86|202411
+80|Despesas operacionais|Outras despesas|Comunicação|||         -30.084,51|202411
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202411
+82|Despesas operacionais|Outras despesas|Veículos|||          -4.729,51|202411
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          38.681,21|202411
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -2.306,00|202411
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||         -25.067,18|202411
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||             266,39|202411
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||        -208.942,21|202411
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|          -3.272,26|202411
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|             -50,00|202411
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -540,00|202411
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|          -3.710,70|202411
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202411
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202411
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|            -156,50|202411
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|          -1.395,00|202411
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -18.556,49|202411
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202411
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|          -6.375,16|202411
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202411
+100|Resultado operacional|||||      -1.007.770,91|202411
+101|Resultado de equivalência patrimonial|||||                  0|202411
+102|Resultado não operacional|||||                  0|202411
+103|Receitas financeiras|||||       3.309.850,64|202411
+104|Despesas financeiras|||||        -308.044,62|202411
+105|Resultado financeiro|||||       3.001.806,02|202411
+106|Superávit do exercício|||||       1.994.035,11|202411
+1|Receita Bruta|||||      20.404.144,16|202412
+2|Tributos|ISS||||      -1.020.267,47|202412
+3|Tributos|COFINS||||      -1.550.808,96|202412
+4|Receita operacional líquida|||||      17.833.067,73|202412
+5|Custos dos serviços prestados|Consultas|Sistema de Contratos (Ex-Sircof)|||                  0|202412
+6|Custos dos serviços prestados|Consultas|SISEG|||        -166.968,92|202412
+7|Custos dos serviços prestados|Consultas|Sistema Nacional de Gravames - SNG|||      -5.325.079,32|202412
+8|Custos dos serviços prestados|Outros custos||||                  0|202412
+9|Margem bruta|||||      12.341.019,49|202412
+10|Despesas operacionais|Pessoal|Despesa com empregados|Gratificacoes||          -7.665,06|202412
+11|Despesas operacionais|Pessoal|Despesa com empregados|Horas Extras||         -67.554,77|202412
+12|Despesas operacionais|Pessoal|Despesa com empregados|Salários||      -2.061.874,11|202412
+13|Despesas operacionais|Pessoal|Despesa com empregados|Ferias||        -240.135,64|202412
+14|Despesas operacionais|Pessoal|Despesa com empregados|Adicional Por Tempo De Servico||                  0|202412
+15|Despesas operacionais|Pessoal|Despesa com empregados|Bonus||      -1.821.446,56|202412
+16|Despesas operacionais|Pessoal|Despesa com empregados|Decimo - Terceiro Salario||        -187.350,61|202412
+17|Despesas operacionais|Pessoal|Despesa com empregados|Pro Labore||                  0|202412
+18|Despesas operacionais|Pessoal|Despesas com indenizacoes|Aviso Previo||                  0|202412
+19|Despesas operacionais|Pessoal|Despesas com indenizacoes|Ferias Indenizadas||                  0|202412
+20|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Rescisao Fgts||                  0|202412
+21|Despesas operacionais|Pessoal|Despesas com indenizacoes|Indenizacoes Trabalhistas||                  0|202412
+22|Despesas operacionais|Pessoal|Despesas com indenizacoes|Multa Sobre Rescisao||                  0|202412
+23|Despesas operacionais|Pessoal|Despesas com indenizacoes|13º Salario Proporcional (Indenizado)||             324,74|202412
+24|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Odontologica|         -68.853,77|202412
+25|Despesas operacionais|Pessoal|Despesas com assistencia social|Assistencia Medica E Odontologica|Assistencia Medica|        -460.949,69|202412
+26|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Ajuda Educacional|                  0|202412
+27|Despesas operacionais|Pessoal|Despesas com assistencia social|Instrucao|Bolsa Estagio|         -42.232,56|202412
+28|Despesas operacionais|Pessoal|Despesas com assistencia social|Treinamento|Cursos, Seminarios E Palestras|          -3.046,80|202412
+29|Despesas operacionais|Pessoal|Despesas com assistencia social|Seguros|Seguro De Vida Em Grupo|         -42.116,79|202412
+30|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Alimentacao|        -343.989,97|202412
+31|Despesas operacionais|Pessoal|Despesas com assistencia social|Alimentacao / Refeicao|Vale Refeicao|        -168.505,31|202412
+32|Despesas operacionais|Pessoal|Despesas com assistencia social|Vale Transporte|Vale Transporte|         -10.736,45|202412
+33|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Educacao|                  0|202412
+34|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Doenca|                  0|202412
+35|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Creche|          -9.481,70|202412
+36|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Ambulatorio|                  0|202412
+37|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Medicina Do Trabalho|          -2.574,14|202412
+38|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Seguranca Do Trabalho|          -8.683,64|202412
+39|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Auxilio Baba|            -958,56|202412
+40|Despesas operacionais|Pessoal|Despesas com assistencia social|Outras Despesas Assistenciais|Programas Assistenciais|                  0|202412
+41|Despesas operacionais|Pessoal|Despesas com assistencia social|Plano de Previdência Privada|Previdência Privada|         -85.336,87|202412
+42|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Ferias|         -46.210,85|202412
+43|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ 13º Salario|         -47.774,47|202412
+44|Despesas operacionais|Pessoal|Despesas com encargos|Inss|Inss S/ Folha De Pagamento|      -1.009.427,78|202412
+45|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Ferias|         -14.629,93|202412
+46|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Rescisao|                  0|202412
+47|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ Folha De Pagamento|        -316.199,28|202412
+48|Despesas operacionais|Pessoal|Despesas com encargos|Fgts|Fgts S/ 13º Salario|         -14.967,73|202412
+49|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Folha De Pagamento|         -39.517,22|202412
+50|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ 13º Salario|          -1.873,51|202412
+51|Despesas operacionais|Pessoal|Despesas com encargos|Pis|Pis S/ Ferias|          -1.812,14|202412
+52|Despesas operacionais|Serviços de terceiros|Honorários de consultoria|||      -2.617.356,35|202412
+53|Despesas operacionais|Serviços de terceiros|Honorários advocatícios|||         179.290,29|202412
+54|Despesas operacionais|Serviços de terceiros|Honorários de auditoria|||        -108.098,66|202412
+55|Despesas operacionais|Serviços de terceiros|Outros serviços de terceiros|||         -56.070,58|202412
+56|Despesas operacionais|Serviços de terceiros|Serviços de informática|||      -2.141.856,73|202412
+57|Despesas operacionais|Serviços de terceiros|Equipamentos|||        -130.305,52|202412
+58|Despesas operacionais|Eventos|Eventos|||      -4.513.526,74|202412
+59|Despesas operacionais|Eventos|Patrocínio de eventos|||                  0|202412
+60|Despesas operacionais|Eventos|Outros eventos|||                  0|202412
+61|Despesas operacionais|Localização|Serviços de limpeza|||         -24.994,00|202412
+62|Despesas operacionais|Localização|Condomínio|||        -158.635,61|202412
+63|Despesas operacionais|Localização|Conservação, manutenção e reparos|||          -2.850,00|202412
+64|Despesas operacionais|Localização|Outras|||         -40.646,56|202412
+65|Despesas operacionais|Localização|Energia elétrica|||         -49.303,77|202412
+66|Despesas operacionais|Localização|Aluguel|||          -1.350,00|202412
+67|Despesas operacionais|Localização|Depreciação e amortização|||        -327.676,62|202412
+68|Despesas operacionais|Marketing|Comunicação institucional|||         -90.000,00|202412
+69|Despesas operacionais|Marketing|Anúncios e editais|||            -577,83|202412
+70|Despesas operacionais|Marketing|Propaganda e divulgação|||      -1.588.939,91|202412
+71|Despesas operacionais|Representação institucional|Despesas De Viagens Em Congressos E Seminarios|||         -26.576,08|202412
+72|Despesas operacionais|Representação institucional|Viagens|||        -973.254,47|202412
+73|Despesas operacionais|Representação institucional|Representação institucional|||                  0|202412
+74|Despesas operacionais|Representação institucional|Representação Social|||         -80.600,51|202412
+75|Despesas operacionais|Representação institucional|Representação Em Congressos E Seminarios|||                  0|202412
+76|Despesas operacionais|Doações e contribuições|Anuidades a entidades de classe|||         -15.255,14|202412
+77|Despesas operacionais|Doações e contribuições|Contribuicoes, mensalidades e anuidades |||          -3.014,31|202412
+78|Despesas operacionais|Doações e contribuições|Doacoes|||         -20.000,00|202412
+79|Despesas operacionais|Outras despesas|Material de expediente|||        -129.559,96|202412
+80|Despesas operacionais|Outras despesas|Comunicação|||         -70.479,08|202412
+81|Despesas operacionais|Outras despesas|Convênios|||                  0|202412
+82|Despesas operacionais|Outras despesas|Veículos|||          -8.054,21|202412
+83|Despesas operacionais|Outras despesas|Crédito COFINS|||          36.942,12|202412
+84|Despesas operacionais|Outras despesas|Diversos|Impostos e taxas||          -5.536,35|202412
+85|Despesas operacionais|Outras despesas|Diversos|Acordos judiciais||       1.690.849,45|202412
+86|Despesas operacionais|Outras despesas|Diversos|Baixas e cobranças||                  0|202412
+87|Despesas operacionais|Outras despesas|Diversos|Provisão para crédito de liquidação duvidosa||          50.343,63|202412
+88|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Refeição|         -91.686,63|202412
+89|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Assinaturas e M. Técnicos|          -1.106,00|202412
+90|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Representação Social|            -540,00|202412
+91|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Maq., mov, equip. e utensílios|                  0|202412
+92|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Brindes|                  0|202412
+93|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Uniformne|                  0|202412
+94|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Livros, Jornais e Revistas|          -2.112,02|202412
+95|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Logística|            -468,00|202412
+96|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Outras desp administrativas|         -20.619,15|202412
+97|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Despesas diversas de eventos|                  0|202412
+98|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Bens de pequeno valor|         -18.271,29|202412
+99|Despesas operacionais|Outras despesas|Diversos|Outras Desp. Administrativas|Impressões / Material gráfico|                  0|202412
+100|Resultado operacional|||||      -6.146.458,27|202412
+101|Resultado de equivalência patrimonial|||||                  0|202412
+102|Resultado não operacional|||||                  0|202412
+103|Receitas financeiras|||||       4.249.406,69|202412
+104|Despesas financeiras|||||      -9.456.350,03|202412
+105|Resultado financeiro|||||      -5.206.943,34|202412
+106|Superávit do exercício|||||     -11.353.401,61|202412

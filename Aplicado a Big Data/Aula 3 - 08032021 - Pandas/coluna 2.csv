@@ -1,0 +1,30 @@
+,label
+0,Pedestrian
+1,Cyclist
+2,Motorcycle 50cc and under rider or passenger
+3,Motorcycle 125cc and under rider or passenger
+4,Motorcycle over 125cc and up to 500cc rider or  passenger
+5,Motorcycle over 500cc rider or passenger
+6,Taxi/Private hire car occupant
+7,Car occupant
+8,Minibus (8 - 16 passenger seats) occupant
+9,Bus or coach occupant (17 or more pass seats)
+10,Horse rider
+11,Agricultural vehicle occupant
+12,Tram occupant
+13,Van / Goods vehicle (3.5 tonnes mgw or under) occupant
+14,Goods vehicle (over 3.5t. and under 7.5t.) occupant
+15,Goods vehicle (7.5 tonnes mgw and over) occupant
+16,Mobility scooter rider
+17,Electric motorcycle rider or passenger
+18,Other vehicle occupant
+19,Motorcycle - unknown cc rider or passenger
+20,Goods vehicle (unknown weight) occupant
+21,Motorcycle - Scooter rider or passenger
+22,Motorcycle rider or passenger
+23,Motorcycle - Combination rider or passenger
+24,Motorcycle over 125cc rider or passenger
+25,Taxi (excluding private hire cars) occupant
+26,Car occupant (including private hire cars)
+27,Minibus/Motor caravan occupant
+28,Goods vehicle (over 3.5 tonnes) occupant

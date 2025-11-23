@@ -1,0 +1,161 @@
+DESCRICAO|CONTA|01/2025|02/2025|03/2025
+ Entradas de Caixa|03|      25.093.003,63|      15.218.288,35|       4.341.110,98
+  Consultas/Registros|0301|      24.138.892,89|      14.762.904,47|       4.082.427,11
+   SNG|030101|      19.470.537,45|      10.409.282,01|       3.848.205,39
+   SISEG|030103|       4.372.587,35|       4.207.348,38|         210.747,75
+   Reversão Baixa de cobrança|030107|                  0|                  0|             534,19
+   Combate a Fraude|030108|         295.768,09|         146.274,08|          22.939,78
+  Receitas de Eventos|0302|          47.595,00|         212.313,75|          86.948,75
+    Receita de Inscrições|030201|          47.595,00|         112.313,75|          86.948,75
+   Receita de Patrocinios|030202|                  0|         100.000,00|                  0
+  Outros ingressos|0306|         906.515,74|         242.876,99|         171.735,12
+   Recuperação Despesas - Outras|030603|         281.413,88|          45.939,93|         128.153,72
+   Rec. Duplic/Não idendificado|030606|              34,92|                  0|                  0
+   Devoluções Diversas|030608|         160.217,79|                  0|                  0
+   Outros Ingressos|030621|          27.371,51|                  0|          40.433,56
+  Receitas Financeiras|0307|                  0|             193,14|                  0
+   Outras Rec. Não Operacionais|030704|                  0|             193,14|                  0
+ Saídas de Caixa|04|      23.256.012,65|      20.817.483,84|       3.141.857,48
+  Despesas com pessoal|0401|       1.715.678,61|       2.480.566,97|          49.213,81
+   Salários|040101|       1.255.603,07|       2.293.159,70|                  0
+   Férias|040104|         434.173,38|         152.309,87|          31.536,40
+   Outras Obrigações a pagar|040106|          25.902,16|          35.097,40|          17.677,41
+  Despesas com indenizações|0402|          60.620,25|          83.839,82|             277,20
+   Indenização/Rescisão/Acordo|040201|          58.032,68|          63.147,27|             277,20
+   Multa Rescisão FGTS|040202|           2.587,57|          20.692,55|                  0
+  Despesas com assistencia socia|0403|         689.654,96|         171.051,74|                  0
+   Assistencia medica|040301|         452.429,42|                  0|                  0
+   Assistencia odontologica|040302|          66.173,80|                  0|                  0
+   Previdência Privada|040309|         171.051,74|         171.051,74|                  0
+  Despesas com Treinamento|0404|           2.260,67|             801,89|                  0
+   Bolsa estagio|040401|           1.217,67|             801,89|                  0
+   Cursos, Seminarios e Palestras|040404|           1.043,00|                  0|                  0
+  Despesas com Benefícios|0405|         417.902,16|         418.021,04|           3.614,21
+   Seguro de vida em grupo|040501|          42.117,25|          42.276,33|                  0
+   Vale alimentacão|040502|         189.145,59|         191.490,48|           1.291,30
+   Vale refeição|040503|         163.934,76|         167.133,97|           1.590,75
+   Vale transporte|040504|          22.704,56|          17.120,26|             732,16
+  Outras despesas assistenciais|0406|          10.565,44|           2.336,38|                  0
+   Medicina do trabalho|040604|           2.415,84|           2.336,38|                  0
+   Segurança do trabalho|040605|           8.149,60|                  0|                  0
+  Despesas com encargos sociais|0407|       2.956.553,26|       1.287.848,59|                  0
+   INSS|040701|       1.190.415,62|         744.624,84|                  0
+   FGTS|040702|         413.335,27|         187.357,55|                  0
+   PIS|040703|          60.955,30|          23.527,37|                  0
+   IRRF Funcionários|040704|       1.291.847,07|         332.338,83|                  0
+  Despesas Localização e Funcion|0408|         274.388,68|         829.096,55|         224.130,76
+   Aluguel|040801|          35.533,18|          42.394,39|           4.400,00
+   Condominio|040802|         165.860,20|         166.444,87|         159.123,39
+   Energia Eletrica|040804|          50.084,53|          53.340,53|          60.607,37
+   Despesa Antecipada|040805|                  0|         507.601,01|                  0
+   Servicos de Limpeza|040806|          20.506,80|          22.951,30|                  0
+   Conservacao, Manutenção e Repa|040807|           2.403,97|           5.424,67|                  0
+   Taxa de Servicos Mun. Est.|040808|                  0|          30.939,78|                  0
+  Despesas de Comunicação|0409|          44.742,17|          54.441,15|           2.549,41
+   Telefonia Fixa|040901|          12.719,49|           9.088,66|                  0
+   Telefonia móvel|040902|           5.521,46|           5.421,46|                  0
+   Correios|040903|           1.946,20|           8.660,34|                  0
+   Tv Por Assinatura|040905|             997,24|           1.197,03|             809,12
+   Links de Internet|040906|          18.693,03|          28.439,67|           1.465,29
+   Conferência|040907|           3.163,10|                  0|                  0
+   Acesso Movel Internet|040908|           1.701,65|           1.633,99|             275,00
+  Despesas com Veículos|0410|          21.006,85|          16.151,46|           2.662,35
+   Combustível|041003|                  0|             628,81|           1.418,65
+   IPVA|041004|          18.527,29|           1.586,67|                  0
+   Seguros Veículos próprios|041005|                  0|          11.651,02|                  0
+   Outros (Ped., Lav., Est., Mul)|041006|           2.479,56|           2.284,96|           1.243,70
+  Despesas com Serviços de Terce|0411|       4.586.583,89|       5.221.488,53|       1.588.009,56
+   Honorarios de Auditoria|041101|          50.725,29|                  0|                  0
+   Honorarios de Consultoria|041102|       1.801.735,88|       2.210.308,51|         960.960,59
+   Honorarios Advocaticios|041103|         913.096,66|       1.494.614,47|         471.087,40
+   Serviços de Informatica|041106|       1.537.761,43|       1.188.930,03|          55.454,57
+   Honorarios de Assessorias|041107|          96.330,60|         309.108,06|          94.347,00
+   Gestao de Documentos|041108|           3.517,73|           3.517,73|                  0
+   Servicos de Terceiros Diversos|041109|         183.416,30|          15.009,73|           6.160,00
+  Desp. c/ Equip. Maq. Mov. Uten|0414|         205.004,53|         204.833,31|          42.433,89
+   Aluguel de Equipamentos e Maq|041401|         147.899,92|         134.647,05|             586,60
+   Manutencao de Equip. Maq|041402|           7.703,49|          20.630,75|                  0
+   Leasing|041406|          49.401,12|          49.555,51|          41.847,29
+  Despesas com Propaganda e Publ|0415|         100.645,69|         494.692,99|          21.759,98
+   Propaganda Institucional|041501|          69.353,69|         421.037,61|                  0
+   Anuncios e Editais|041502|                  0|           1.529,30|                  0
+   Propaganda-Divulgação-Publicid|041503|          31.292,00|          72.126,08|          21.759,98
+  Despesas com Viagens|0416|         501.782,90|         973.417,61|         210.550,06
+   Despesas com Viagens Nacionais|041601|         427.282,35|         726.537,34|         200.848,04
+    Passagens Nacionais|04160101|          25.916,08|         337.926,14|           3.157,76
+    Hospedagens Nacionais|04160102|         376.150,20|         373.391,69|         187.440,00
+    Transportes Nacionais|04160103|          10.757,82|           3.158,46|           5.250,69
+    Lanches e Refeiçoes Nacionais|04160104|           5.387,41|           5.439,05|           4.999,59
+    Outras Desp. viagens Nacionais|04160107|           9.070,84|           6.622,00|                  0
+   Despesas com Viagens Internaci|041602|          54.737,60|         226.517,76|                  0
+    Passagens Internacionais|04160201|           6.757,97|         214.397,31|                  0
+    Hospedagens Internacionais|04160202|          46.818,48|                  0|                  0
+    Transportes Internacionais|04160203|             136,80|                  0|                  0
+    Lanches e Refeiçoes Internacio|04160204|           1.024,35|                  0|                  0
+    Outras Despesas Internacionais|04160206|                  0|          12.120,45|                  0
+  Conducao e Passagem Urbana|041603|          19.762,95|          20.362,51|           9.702,02
+    Taxi|04160302|          13.377,38|             696,88|             902,99
+    UBER - transp. alternativo|04160304|           6.385,57|          19.665,63|           8.799,03
+  Despesas com Expediente|0417|         113.229,38|          36.895,98|          16.607,40
+   Material de Escritorio|041701|              26,98|             404,50|           2.170,90
+   Material de Informatica|041702|           7.516,53|          11.767,40|              95,00
+   Material de Copa e Cozinha|041703|           2.041,15|           8.234,58|           1.056,34
+   Material de Manutencao|041704|             623,62|           7.502,90|           3.687,89
+   Material de Limpeza|041705|           4.210,04|           5.293,60|           9.481,27
+   Despesas Legais e Judiciais|041706|           4.533,02|             492,00|                  0
+   Copias e Reproducoes|041707|              15,00|                  0|                  0
+   Serviços de Impressão|041708|                  0|           3.201,00|             116,00
+   Processos Judiciais|041709|          94.263,04|                  0|                  0
+  Despesas com Eventos|0418|         169.458,41|         334.054,05|           9.112,74
+   Realizacao de Eventos|041801|          13.641,98|          26.001,25|           9.112,74
+    Materiais Para Eventos|04180102|             789,03|                  0|                  0
+    Aluguel de Espaço p/Eventos|04180103|          12.852,95|          26.001,25|           9.112,74
+   Patrocínio de Eventos|041803|           5.000,00|         210.000,00|                  0
+   Outras Desp Eventos|041804|          24.274,62|          28.521,05|                  0
+   Desp Serv Org Festas -Eventos|041805|          97.444,06|          64.304,00|                  0
+   Desp Serv. Terceiros Eventos|041806|           5.538,00|                  0|                  0
+   Cooffe Break - eventos interno|041807|          23.559,75|           5.227,75|                  0
+  Despesas com Doações e Contrib|0421|          41.817,15|         104.125,49|                  0
+   Contribuições a Entidades|042101|           2.294,31|           2.354,00|                  0
+   Doações Diversas|042102|          20.000,00|          20.000,00|                  0
+   Anuidades|042103|          19.522,84|          81.771,49|                  0
+  Despesas Diversas|0422|          42.366,59|          70.089,85|          13.963,33
+   Livros, Jornais, Revistas |042201|           1.088,80|             313,00|                  0
+   Assinaturas e Manuais Tecnicos|042202|             626,81|          22.435,27|           1.297,36
+   Bens de Pequeno Valor|042203|          12.212,62|          19.233,61|           1.076,00
+   Representacao Social |042204|          17.580,10|          18.535,54|          10.322,34
+   Outras Despesas Administrativa|042206|           1.527,85|           2.625,00|           1.000,00
+   Brindes|042207|           1.309,19|                  0|                  0
+   Logistica|042208|             468,00|                  0|                  0
+   Alimentação Func|042209|           7.553,22|           6.947,43|             267,63
+  Despesas com Tributos e Taxa|0423|       3.255.403,48|       2.749.258,14|         935.973,78
+   Impostos Federais|042301|         401.598,05|         221.640,99|                  0
+   Impostos Municipais|042303|       1.053.899,05|         936.815,58|         933.602,78
+   Cofins|042304|       1.645.230,20|       1.582.943,21|                  0
+   Impostos e taxas diversos|042306|             723,34|                  0|                  0
+   Impostos-serv exterior|042307|         153.952,84|           7.858,36|           2.371,00
+  Despesas Bancarias|0424|           7.455,42|           8.636,89|           5.184,07
+   Tarifa Cobrança|042401|           3.113,25|           2.757,04|             332,30
+   Tarifa TED - DOC - PIX|042402|             456,86|           2.571,26|              67,88
+   Tarifas Bancárias Diversas|042403|           1.175,14|             898,45|             258,71
+   Tarifa Itaujudice|042404|           1.500,00|           1.500,00|           1.500,00
+   Tarifa Cartão de Crédito|042405|           1.210,17|             910,14|           3.025,18
+  Despesas Financeiras|0425|           3.656,78|          31.323,74|           4.305,99
+   IRRF s/ Cambio|042501|           2.122,41|          30.257,64|           3.840,00
+   IOF s/ Cambio|042502|           1.261,80|             516,10|             140,85
+   Tarifa s/cambio|042503|             237,36|             402,24|             233,18
+   Juros e multa fornecedor|042504|              35,21|             147,76|              91,96
+  Outras Saídas |0426|          43.575,20|             125,08|           1.312,00
+   Outros -Dev.Dup/Bloqueio Jud|042603|          42.038,88|              34,92|                  0
+   Outros Adiantamentos|042604|           1.536,32|             160,00|           1.312,00
+  Desembolsos Operacionais|0427|       7.636.858,92|       5.223.220,79|           4.807,29
+   Repasse Detran's |042701|       6.787.225,39|       4.506.082,81|                  0
+   Custos s/Registros - Consultas|042704|         208.370,52|         241.797,39|                  0
+   Despesas a recuperar-Rateios|042705|         204.820,02|         125.400,00|                  0
+   Despesas a recuperar - outros|042706|         436.442,99|         349.940,59|           4.807,29
+  Investimentos Outros|0429|         354.801,26|          21.415,96|           5.389,65
+   Obras em andamento|042903|          64.291,04|                  0|                  0
+   Ativos imobilizados|042904|         290.510,22|          21.415,96|           5.389,65
+ Resultado Invest. Financeiro|99|       4.801.581,85|       4.327.463,49|                  0
+  Rendimento CDB|9901|         366.980,69|           1.686,46|                  0
+  Rendimento Fundos|9902|       4.434.601,16|       4.325.777,03|                  0
